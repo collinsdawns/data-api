@@ -42,6 +42,7 @@
       "rating": "91% of user reviews are positive (based on 31,829 reviews)",
       "user_language": "English, Japanese, Simplified Chinese, Traditional Chinese, French, Italian, German, Spanish - Spain, Korean",
       "audio_language": " English, Japanese",
+      "image":"https://image.api.playstation.com/cdn/UP1024/CUSA00834_00/SENiGRRAKhgGlJYklKtlJSH8KgIu6YSz.png?w=440&thumb=false",
       "minimum_requirements":{
         "os": "Windows 7/8/10 (x64)",
         "processor" : "AMD FX-4350, 4.2 GHz / Intel Core i5-3450, 3.10 GHz",
@@ -88,6 +89,7 @@
       "rating": "Switch has no Steam :(",
       "user_language": "English, French, Italian, German, Spanish (Spain), Portuguese (Brazil), Russian, Japanese, Polish, Simplified Chinese, Traditional Chinese, Korean, Arabic, Persian",
       "audio_language": " English, French, German, Spanish (Spain), Persian",
+      "image":"https://telegra.ph/file/6cd12a0f1657216270e9c.jpg",
       "minimum_requirements":{
         "os": "Windows 7/8/8.1/10 (x64)",
         "processor" : "at least 4-cores i5",
