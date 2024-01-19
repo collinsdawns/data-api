@@ -89,7 +89,7 @@
       "rating": "Switch has no Steam :(",
       "user_language": "English, French, Italian, German, Spanish (Spain), Portuguese (Brazil), Russian, Japanese, Polish, Simplified Chinese, Traditional Chinese, Korean, Arabic, Persian",
       "audio_language": " English, French, German, Spanish (Spain), Persian",
-      "image":"https://telegra.ph/file/6cd12a0f1657216270e9c.jpg",
+      "image":"https://upload.wikimedia.org/wikipedia/en/a/a0/Prince_of_Persia_The_Lost_Crown_cover_art.jpg",
       "minimum_requirements":{
         "os": "Windows 7/8/8.1/10 (x64)",
         "processor" : "at least 4-cores i5",
@@ -119,6 +119,7 @@
       "rating": "60%",
       "user_language": "English, French, Italian, German, Spanish - Spain, Portuguese, Brazilian Portuguese",
       "audio_language": " English, French, Spanish, Italian, German, Portuguese, Brazilian Portuguese",
+      "image":"https://telegra.ph/file/6cd12a0f1657216270e9c.jpg",
       "minimum_requirements":{
         "os": "Windows 10 (x64)",
         "processor" : "Intel Core i5-2300 / AMD FX-6300",
