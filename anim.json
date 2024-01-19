@@ -106,6 +106,37 @@
       ],
       "description":"Dash into a stylish and thrilling action-adventure platformer set in a mythological Persian world where the boundaries of time and space are yours to manipulate. Play as Sargon and evolve from sword-wielding prodigy to extraordinary legend as you master acrobatic combat and unlock new Time Powers and unique super abilities."
 
+    },
+    {
+      "update_date" : "January 15, 2024",
+      "title": "Dakar Desert Rally: Deluxe Edition",
+      "released_date": " October 4, 2022",
+      "genres": "Racing, Simulation, Cars, Motorcycles, Open-wheel cars, Third-person, 3D",
+      "platforms": "PC",
+      "developer": "Saber Porto Ltd.",
+      "rating": "60%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Portuguese, Brazilian Portuguese",
+      "audio_language": " English, French, Spanish, Italian, German, Portuguese, Brazilian Portuguese",
+      "minimum_requirements":{
+        "os": "Windows 10 (x64)",
+        "processor" : "Intel Core i5-2300 / AMD FX-6300",
+        "ram": "8 GB",
+        "video_card":"4 GB VRAM Video Card",
+        "direX": "12",
+        "hdd_space":"up to 62.9 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/68/d7/68d7f9dc-de6e-4378-a3bf-c8ee382b4a4c.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/78/ea/78eaacdd-c422-48d2-9d50-4539a53e22cd.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/aa/17/aa172fac-611b-40f8-9f69-8db25cad7cf2.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/61/aa/61aacf2a-d510-455c-8852-b2e53194a1a3.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/96/36/9636bf92-44e9-4943-96e9-12dab95b41f8.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/fb/3e/fb3e30ec-b7e1-4c4e-b068-bcb58bf8725e.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/5f/6b/5f6b51e1-6fb1-4c93-ae8b-f8ea92133e15.jpg.240p.jpg"
+      ],
+      "description":"Dakar Desert Rally is the biggest and most epic off-road rally racing adventure ever developed. Dakar Desert Rally captures the genuine speed and excitement of Amaury Sport Organisation’s largest rally race on the planet, featuring a wide variety of licensed vehicles from the world’s top makers, including motorcycles, cars, trucks, quads and SSV"
+
     }
   ]
 }
