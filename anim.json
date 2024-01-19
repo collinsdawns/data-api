@@ -1,0 +1,16 @@
+// anime_data.json
+{
+  "animeList": [
+    {
+      "title": "Your Anime Title 1",
+      "genre": "Action",
+      "rating": 9.0
+    },
+    {
+      "title": "Your Anime Title 2",
+      "genre": "Fantasy",
+      "rating": 8.5
+    },
+    // Add more entries as needed
+  ]
+}
