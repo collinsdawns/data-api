@@ -140,6 +140,38 @@
       ],
       "description":"Dakar Desert Rally is the biggest and most epic off-road rally racing adventure ever developed. Dakar Desert Rally captures the genuine speed and excitement of Amaury Sport Organisation’s largest rally race on the planet, featuring a wide variety of licensed vehicles from the world’s top makers, including motorcycles, cars, trucks, quads and SSV"
 
+    },
+    {
+      "update_date" : "January 14, 2024",
+      "title": "Zombie Army 4: Dead War",
+      "released_date": " February 4, 2020",
+      "genres": "Action, Shooter, First-person, Third-person, 3D",
+      "platforms": "PC",
+      "developer": "Saber Porto Ltd.",
+      "rating": "none",
+      "user_language": "English, French, Italian, German, Spanish, Brazilian (Portuguese), Russian, Polish, Simplified Chinese, Traditional Chinese, Japanese, Korean",
+      "audio_language": " English",
+      "image":"https://telegra.ph/file/6cd12a0f1657216270e9c.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10 64-bit / Windows 7 64-bit",
+        "processor" : "Intel Core i3-6100 (or AMD equivalent)",
+        "ram": "4 GB",
+        "video_card":"Nvidia GT 1030 2GB (or AMD equivalent)",
+        "direX": "11",
+        "hdd_space":"60.3 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/b9/b6/b9b6d4c3-130e-45fb-aff5-7c1eb75a32b7.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/54/c9/54c94b05-a6da-41ba-bb54-4c81c1be653e.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/26/4f/264fb4c0-634f-4802-8171-0d7d57203706.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/1e/94/1e94393c-064f-41cc-b6b8-352b13ef4c8d.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/1e/94/1e94393c-064f-41cc-b6b8-352b13ef4c8d.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/e8/ed/e8ed9196-df1c-42fd-9a97-e2aa2bd8c3c5.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/44/14/441416a5-769b-47f8-bb4d-1aacf87fdafa.jpg.240p.jpg"
+      ],
+      "description":"Hitler’s hordes are back for more in this spine-chilling shooter from the makers of Sniper Elite 4! Abominable occult enemies, epic weapons and a harrowing new campaign for 1-4 players await in 1940s Europe, as you fight to save humankind from undead Armageddon!"
+
     }
   ]
 }
