@@ -1,14 +1,47 @@
 {
-  "animeList": [
+  "latest_games": [
     {
-      "title": "Your Anime Title 1",
-      "genre": "Action",
-      "rating": 9.0
+      "update_date" : "",
+      "title": "Sovereign Syndicate: Digital Deluxe Edition v1.0.19 + Bonus Content",
+      "released_date": "January 15, 2024",
+      "genres": "RPG, Open world, Isometric, 3D",
+      "platforms": "PC",
+      "developer": "Crimson Herring Studios",
+      "rating": "100% of user reviews are positive (based on 25 reviews)",
+      "user_language": "English",
+      "audio_language": "none",
+      "minimum_requirements":{
+        "os": "Windows 7 x64",
+        "processor" : "Intel Core i3 or equivalent",
+        "ram": "8 GB",
+        "directX":"Direct X Compatible Video Card with 2GB",
+        "direX": "11",
+        "hdd_space":"10.7 GB"
+
+      },
+      "screenshots":[
+        "https://s01.riotpixels.net/data/07/ad/07ad084d-8fbd-4f58-8c85-35ec195ad57b.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/1f/c2/1fc2e47f-9471-4ad8-ad3b-9c9dbd05fb42.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/6c/bc/6cbc2192-ec18-4eee-9ddc-a049e3897088.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/6c/bc/6cbc2192-ec18-4eee-9ddc-a049e3897088.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/65/c5/65c52dee-9591-40ed-8b7d-fafb7791d2df.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/5f/de/5fdeabde-47b0-4026-a3ba-056e839b3571.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/ab/9c/ab9c6e48-962e-417b-8a5d-ea0249e9522e.jpg.240p.jpg"
+      ],
+      "description":"Explore an open world in this Victorian steampunk cRPG. Play as three characters with branching stories that intertwine. Investigate, interact, and take action to leave your mark on the world and its inhabitants. No random stat points here, use your skills to level them up, and trust your fate to our tarot card chance system.So, how will you solve your problems? Combat, persuasion, magic, explosives? The choice is yours and all your cards are on the table; but be careful, the docklands aren’t for the faint of heart.Tarot Card Chance System – Leave your dice at home as you interact with a variety of characters. NPC’s react to your gender, race, appearance, and choice of dialogue, so you’d better look and act the part if you want the right results. But not everything is certain, luck plays a role and it’s all in the cards with our tarot card chance system.Skill and Etiquette System - The skills you use will improve your ability, while ignoring others will cause them to stagnate. Master the skills you choose and learn more about the world and its inhabitants to unlock special dialogue and skill-check options.So go, see, do! And dont be afraid to try the unconventional. Drown yourself in gin? Sure, provided you’ve got the constitution for it. Smoke that opium? Certainly, but be careful not to doze off— it might not be safe here. Put it all on black? You only live once, as they say. Even in failure you learn something…A Rich Open World to Explore - A steampunk fantasy-inspired Victorian London awaits; filled with interesting characters and locations. Explore the back alleys, opium dens, brothels, and more at your peril, or relax and enjoy their simple pleasures. Investigate, interact, and take action to forge your own path.Three Characters, Three Different Stories – Play as three characters with stories that intertwine through the city’s docklands and unfold based on your choices.Atticus Daley, an orphaned minotaur magician crawling out of the bottom of a bottle to find a sense of belonging, and his next fix.Clara Reed, a corsair with a checkered past, and a cunning woman with a rebellious streak. Follow her on a search for vengeance, and the courtesan killer.Otto, the trusty automaton and companion of engineer Theodore Redgrave. More than just the sum of his parts, Otto wants more to life than servitude and utility.Each character has their own mix of skills, equipment, and expertise, and they might just have to work together to succeed. Will you trust your companions, and should they trust you? Not everyone is a hero after all."
     },
     {
-      "title": "Your Anime Title 2",
-      "genre": "Fantasy",
-      "rating": 8.5
+      "title": "Call of Duty: Warzone",
+      "releaseYear": 2020,
+      "platforms": ["PlayStation", "Xbox", "PC"],
+      "modes": ["Battle Royale", "Plunder"],
+      "rating": 4.6,
+      "description": "Call of Duty: Warzone is a free-to-play battle royale game...",
+      "screenshots": [
+        "screenshots/warzone_1.jpg",
+        "screenshots/warzone_2.jpg",
+        "screenshots/warzone_3.jpg"
+      ]
     }
   ]
 }
