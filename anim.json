@@ -259,6 +259,37 @@
       ],
       "description":"You are a Grey Warden, one of the last of this legendary order of guardians. With the return of mankind's ancient foe and the kingdom engulfed in civil war, you have been chosen by fate to unite the shattered lands and slay the archdemon once and for all. Explore a stunning world, make complex moral choices, and engage in bone-crushing combat against massive and terrifying creatures.Determine your legacy and fight for Thedas as a noble dwarf, an elf far from home, a mage apprentice, or a customized hero of your own design. Experience many unique origin stories on your quest to unite the kingdoms and defeat an ancient evil."
 
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Dragon Age: Inquisition - Digital Deluxe Edition ",
+      "released_date": "November 18, 2014",
+      "genres": "RPG, Open world, Third-person, 3D",
+      "platforms": "PC",
+      "developer": "BioWare",
+      "rating": "none",
+      "user_language": "English, German, Spanish, Italian, French, Russian, Polish, Portuguese-Brazil, Japanese",
+      "audio_language": " English, German, French",
+      "image":"https://cdn.mobygames.com/covers/771434-dragon-age-inquisition-deluxe-edition-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 or 8.1 64-bit",
+        "processor" : "AMD quad core CPU @ 2.5 GHz or Intel quad core CPU @ 2.0 GHz",
+        "ram": "4 GB",
+        "video_card":"AMD Radeon HD 4870 or NVIDIA GeForce 8800 GT with 512 MB Graphics Memory",
+        "direX": "10",
+        "hdd_space":"41 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/77/d2/77d2c24b-c412-4d08-a9b2-37f0e2e53754.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/82/df/82df0c89-12b7-4e4b-849a-d00d150ea75a.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/96/07/96075241-f4e7-4818-95d6-f47f7047ac90.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/96/07/96075241-f4e7-4818-95d6-f47f7047ac90.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/16/48/16485876-5975-4939-9802-07b2274e270d.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/75/88/75880f1e-dc73-49da-bf0d-5688df0df5e7.jpg.240p.jpg"
+      ],
+      "description":"Dragon Age: Inquisition is an action role-playing video game developed by BioWare and published by Electronic Arts. The third major game in the Dragon Age franchise, Dragon Age: Inquisition is the sequel to Dragon Age: Origins and Dragon Age II.The story of Dragon Age: Inquisition follows a player character known as the Inquisitor on a journey to settle the civil unrest in the continent of Thedas and close a mysterious tear in the sky called the 'Breach', which is unleashing dangerous demons upon the world. The Inquisitor is viewed by some as the 'chosen one', as they have a 'Mark' on their hand capable of closing the Breach. The Inquisitor assembles the titular Inquisition in an attempt to stop Corypheus, an ancient darkspawn, who opened the breach in attempt to conquer Thedas."
+
     }
   ]
 }
