@@ -228,6 +228,37 @@
       ],
       "description":"Black Ops Cold War, the direct sequel to Call of Duty®: Black Ops, will drop fans into the depths of the Cold War’s volatile geopolitical battle of the early 1980s."
 
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Dragon Age: Origins – Ultimate Edition GOG Version",
+      "released_date": "8 Mar, 2023",
+      "genres": "Action",
+      "platforms": "PC",
+      "developer": "Electronic Arts",
+      "rating": "none",
+      "user_language": "Russian, English, MULTi13",
+      "audio_language": " English",
+      "image":"https://telegra.ph/file/f954f55c6a6d994734ddd.jpg",
+      "minimum_requirements":{
+        "os": "Windows® 10 64-bit (v.1803 or higher)",
+        "processor" : "Intel® Core™ i3-4340 or AMD FX-6300*",
+        "ram": "8 GB",
+        "video_card":"NVIDIA® GeForce® GTX 670 / NVIDIA® GeForce® GTX 1650 or AMD ",
+        "direX": "12",
+        "hdd_space":"175 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/09/71/09717801-c45e-49d9-9a33-70f8e14b9367.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/d4/5e/d45e4f36-dd65-446d-b90f-743dacb92871.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/a0/27/a027508f-c3f3-4024-9159-3dfe4a989e7c.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/0f/5f/0f5fbf2f-888b-450d-9b0f-7de393558c43.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/6f/1a/6f1afd0e-b78c-4583-b98a-09f7b8e039f8.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/ab/4d/ab4d7f3b-dc4c-4647-93fc-2e6a235e7ce2.jpg.240p.jpg"
+      ],
+      "description":"You are a Grey Warden, one of the last of this legendary order of guardians. With the return of mankind's ancient foe and the kingdom engulfed in civil war, you have been chosen by fate to unite the shattered lands and slay the archdemon once and for all. Explore a stunning world, make complex moral choices, and engage in bone-crushing combat against massive and terrifying creatures.Determine your legacy and fight for Thedas as a noble dwarf, an elf far from home, a mage apprentice, or a customized hero of your own design. Experience many unique origin stories on your quest to unite the kingdoms and defeat an ancient evil."
+
     }
   ]
 }
