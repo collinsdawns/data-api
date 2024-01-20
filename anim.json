@@ -170,6 +170,35 @@
       ],
       "description":"Hitler’s hordes are back for more in this spine-chilling shooter from the makers of Sniper Elite 4! Abominable occult enemies, epic weapons and a harrowing new campaign for 1-4 players await in 1940s Europe, as you fight to save humankind from undead Armageddon!"
 
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Red Dead Redemption 2: Ultimate Edition",
+      "released_date": "5 nov. 2019",
+      "genres": "Action (Shooter) / Adventure / Western / Open World / 3rd Person / 1st Person",
+      "platforms": "PC",
+      "developer": "Rockstar Studios.",
+      "rating": "none",
+      "user_language": "Russian, English, MULTi13",
+      "audio_language": " English",
+      "image":"https://telegra.ph/file/23dbc1e1f496619ff3c12.jpg",
+      "minimum_requirements":{
+        "os": " Windows 7 (64-bit only)",
+        "processor" : "Intel Core i5-2500K / AMD FX-6300",
+        "ram": "8 GB",
+        "video_card":"Nvidia GeForce GTX 770 2GB / AMD Radeon R9 280 3GB",
+        "direX": "11",
+        "hdd_space":"120 GB"
+
+      },
+      "screenshots":[
+        "https://1.bp.blogspot.com/-O8BAFMJtmg8/X5GfzI2IWoI/AAAAAAABD6o/NDkr8BTsgLQk1NsQWD1dec89Vv9L61anQCLcBGAsYHQ/s2048/red-dead-redemption-2-pc-screenshot-1.jpg",
+        "https://1.bp.blogspot.com/-UbdoV690q-0/X5Gfy5MI1LI/AAAAAAABD6k/PutvTjrk-3gPchs1Ncp7-R2iYrcuCgzcgCLcBGAsYHQ/s1920/red-dead-redemption-2-pc-screenshot-2.jpg",
+        "https://1.bp.blogspot.com/-0WNkdfSn6Bo/X5GfzBVNYmI/AAAAAAABD6s/u9b6vv_fsG8-VrJJp83p_Z_4rJWM2iYmQCLcBGAsYHQ/s1920/red-dead-redemption-2-pc-screenshot-3.jpg",
+        "https://1.bp.blogspot.com/-NhXC4lHkSzE/X5Gfz5j3MvI/AAAAAAABD6w/BaH27HyIP7kl4PXJGzrCvq3tRlVAl0PiQCLcBGAsYHQ/s2048/red-dead-redemption-2-pc-screenshot-4.jpg"
+      ],
+      "description":"From the creators of Grand Theft Auto V and Red Dead Redemption, Red Dead Redemption 2 is the epitome of life and survival in the heart of wild America. An incredibly spacious and carefully designed game world will also form the basis for a completely new online mode.America, 1899. The era of the Wild West is coming to an end. The servants of the law methodically hunt the remnants of the gangs. Those who do not want to surrender are killed. After the failed bank robbery, Arthur Morgan and other henchmen of Dutch van der Linde are forced to go on the run.Their gang will take part in thefts, robberies and shootings in the heart of America, on an inhospitable land, where every day is a struggle for survival. Federal agents and the best bounty hunters in the country are on their heels, and the gang itself is torn apart by internal divisions. Arthur will have to choose what is more important to him: his own ideals or loyalty to the people who raised him."
+
     }
   ]
 }
