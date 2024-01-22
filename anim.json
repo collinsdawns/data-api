@@ -514,6 +514,254 @@
       ],
       "description":"Portal: Revolution is a fan-made mod that adds a brand new story arc with new characters and over 40 test chamber puzzles, offering over eight hours of gameplay. It's such a meaty mod that you could consider this an unofficial entry in the series. It's a whole new game that's been built using Portal 2's engine. As a result, it may look a bit older than modern games, but that also means it's consistent within the series."
 
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Three Kingdoms Zhao Yun: Deluxe Edition",
+      "released_date": "January 18, 2024",
+      "genres": "Action, Isometric, 3D",
+      "platforms": "PC",
+      "developer": "ZUIJIANGYUE Game",
+      "rating": "76%",
+      "user_language": "English, Simplified Chinese, Traditional Chinese",
+      "audio_language": "Chinese",
+      "image":"https://cdn.mobygames.com/covers/18137108-three-kingdoms-zhao-yun-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "WWindows 7 (x64)",
+        "processor" : "NVIDIA GeForce GTX 1050 Ti",
+        "ram": "16 GB",
+        "video_card":"NVIDIA GeForce GTX 750 / AMD Radeon R7 360",
+        "direX": "11",
+        "hdd_space":"16.2 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/04/7b/047b922f-4363-4813-aee3-0f75d4bff962.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/9c/6f/9c6ff2d8-0c2f-4c97-9b10-0057a6eb6110.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/db/5a/db5a47c3-aa17-4c06-93ce-587761050b11.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/c3/7b/c37b89cf-a186-416c-a8ad-635cb061ab3d.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/46/91/4691a299-b548-462e-829f-2cb6e6ccba1f.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/42/8a/428a6a6e-b56d-4297-882c-0ce8d8f09544.jpg.240p.jpg"
+      ],
+      "description":"At the end of the Eastern Han Dynasty, the heroes were fighting for hegemony, and the flames were everywhere. In the game, players played the role of Zhao Yun, a well-known general of the Three Kingdoms, and interpreted the story of his youth."
+
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": " Turbo Sloths",
+      "released_date": "January 8 Dec, 2022",
+      "genres": "Action, Adventure, Indie, Racing, Simulation, Sports",
+      "platforms": "PC",
+      "developer": "RainStyle games",
+      "rating": "76%",
+      "user_language": "English, Russian, Simplified Chinese",
+      "audio_language": "English, Russian",
+      "image":"https://cdn.mobygames.com/covers/17463863-turbo-sloths-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10 / 11",
+        "processor" : "Intel® Core™ i7-3770 or AMD Ryzen™ 5 2600x",
+        "ram": "8 GB",
+        "video_card":"NVIDIA® GeForce® GTX 1060 (4Gb Min) or AMD Radeon RX 580",
+        "direX": "11",
+        "hdd_space":"10 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/56/0c/560c81f4-c05e-454e-869d-be9692702072.jpg/screenshot.turbo-sloths.1280x720.2024-01-17.11.jpg",
+        "http://s01.riotpixels.net/data/5c/d6/5cd61a15-067c-4caa-8acd-43e28698c534.jpg.720p.jpg/screenshot.turbo-sloths.1280x720.2024-01-17.10.jpg",
+        "http://s01.riotpixels.net/data/30/a9/30a90f7b-5be1-41e0-a922-8453f8036c27.jpg.720p.jpg/screenshot.turbo-sloths.1280x720.2024-01-17.9.jpg",
+        "http://s01.riotpixels.net/data/9a/43/9a430812-2e3e-4c7b-8a2a-fdde078cef15.jpg/screenshot.turbo-sloths.1280x720.2024-01-17.7.jpg",
+        "http://s01.riotpixels.net/data/ff/28/ff28a012-3c85-47b9-9f1b-1a12c1060597.jpg.720p.jpg/screenshot.turbo-sloths.1280x720.2024-01-17.6.jpg",
+        "http://s01.riotpixels.net/data/eb/3b/eb3be0bf-d48e-4783-9655-238c25b9f4d9.jpg/screenshot.turbo-sloths.1280x720.2024-01-17.5.jpg"
+      ],
+      "description":"Become the new star of the Wasteland League. Your task is to bring a multi ton clumsy car to frantically speeds with powerful turbine. Pimp your Turbojunk, set powerful boosters, stock up on active gas and go ahead - show what speed is"
+
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "The Sinking City: Deluxe Edition",
+      "released_date": "June 25, 2019",
+      "genres": "Adventure, Open world, Third-person, 3D, Horror",
+      "platforms": "PC",
+      "developer": "Frogwares",
+      "rating": "73%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Japanese, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Ukrainian, Arabic, Traditional Chinese, Korean, Turkish, Czech",
+      "audio_language": "English, French, German, Russian",
+      "image":"https://cdn.mobygames.com/covers/7806770-the-sinking-city-playstation-4-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 x64",
+        "processor" : "Intel Core i3, 3 GHz/AMD Phenom X6, 3 GHz",
+        "ram": "6 GB",
+        "video_card":"NVIDIA GeForce 760 GTX, 2048 Mb/ATI R9 380X, 2048 Mb",
+        "direX": "11",
+        "hdd_space":"18.7 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/32/26/3226f8c6-c024-4e09-987a-4dcc0b5091db.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/25/5c/255cb6f0-021c-4dc2-99d4-e458be17dfa1.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/08/2c/082cdd1e-ea4f-4656-9747-1536687e37b6.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/09/4e/094e06b8-66bb-469f-ab03-ac668258100f.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/44/67/4467a5fb-b2f7-4047-9bbe-726adfe0a46a.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/b9/a9/b9a96f07-6797-4ba3-bddc-358968b509c0.jpg.240p.jpg"
+      ],
+      "description":"The Sinking City is an adventure and investigation game set in an open world inspired by the universe of H.P. Lovecraft, the master of Horror. The half-submerged city of Oakmont is gripped by supernatural forces. You're a private investigator, and you have to uncover the truth of what has possessed the city… and the minds of its inhabitants."
+
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "House Builder",
+      "released_date": "January 15, 2024",
+      "genres": "Lifestyle, First-person, 3D",
+      "platforms": "PC",
+      "developer": "FreeMind",
+      "rating": "73%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Polish, Russian, Simplified Chinese, Arabic, Bulgarian, Traditional Chinese, Czech, Danish, Finnish, Greek, Spanish - Latin America, Dutch, Japanese, Korean, Norwegian, Portuguese - Portugal, Portuguese - Brazil, Romanian, Swedish, Thai, Turkish, Ukrainian, Vietnamese, Hungarian, Croatian, Estonian, Hindi, Lithuanian, Mongolian, Slovak",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/10922321-house-builder-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 x64",
+        "processor" : "Intel Core i5",
+        "ram": "8 GB",
+        "video_card":"NVidia GeForce GTX 750",
+        "direX": "10",
+        "hdd_space":"24.7 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/b6/bf/b6bfe6fb-916f-49ee-8989-abf519e0023c.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/d0/fa/d0fa1f97-aad7-4da6-a8a8-d960a926a1bc.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/c0/04/c004b650-6a8a-42a8-84d6-784a1fa05f2f.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/bb/b4/bbb443d3-c3db-4aea-b75e-e16e6a6df7a1.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/18/77/1877ebbd-1540-4ce7-9e8e-ae66a3856d70.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/aa/66/aa661e83-ed1c-409d-b64f-9f464ef495a0.jpg.240p.jpg"
+      ],
+      "description":"Become one man construction crew and build houses like a simple African mud hut and as complex as a super modern energy-saving architectural marvel. Let us take you on a trip to various spots on the globe and experience true architectural variety. You will try to build a mud hut in Africa, an igloo in the Arctic, a Canadian house, a log cabin in Siberia, a traditional house made of bricks, airbricks, or concrete, and many, many more…Every house consists of hundreds of elements you need to match according to the rules of construction.Learn different structures of buildings, construction materials, their features, and their properties. Build simple constructions made of primitive materials, but also ultramodern buildings featuring the latest technological discoveries."
+
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Medal of Honor™",
+      "released_date": "12 Oct, 2010",
+      "genres": "Action",
+      "platforms": "PC",
+      "developer": "Electronic Arts",
+      "rating": "73%",
+      "user_language": "English",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/1099009-medal-of-honor-windows-manual.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 x64",
+        "processor" : "Intel Core i5",
+        "ram": "8 GB",
+        "video_card":"NVidia GeForce GTX 750",
+        "direX": "10",
+        "hdd_space":"5 GB"
+
+      },
+      "screenshots":[
+        "https://cdn.mobygames.com/screenshots/11649414-medal-of-honor-playstation-3-he-seems-to-be-shooting-at-pigeons-.jpg",
+        "https://cdn.mobygames.com/screenshots/11649420-medal-of-honor-playstation-3-time-to-get-some-wheels.jpg",
+        "https://cdn.mobygames.com/screenshots/11649423-medal-of-honor-playstation-3-follow-your-team-leader-to-the-next.jpg",
+        "https://cdn.mobygames.com/screenshots/11649609-medal-of-honor-playstation-3-sneaking-mission-will-be-easier-if-.jpg",
+        "https://cdn.mobygames.com/screenshots/11649378-medal-of-honor-playstation-3-time-to-assemble-the-base-of-operat.jpg",
+        "https://cdn.mobygames.com/screenshots/11649402-medal-of-honor-playstation-3-an-unexpected-goat-or-guest.jpg"
+      ],
+      "description":"Operating directly under the National Command Authority, a relatively unknown entity of handpicked warriors are selected when it is crucial that a mission must not fail. They are the Tier 1 Operators. There are over 2 million active soldiers. Of those, approximately 50 thousand fall under the direct control of the Special Operations Command. The Tier 1 Operator functions on a level above and beyond even the most highly trained Special Operations Forces. Their exact numbers, while classified, hover in the low hundreds. They are living, breathing, precision instruments of war. They are experts in the application of violence. The new Medal of Honor™ is inspired by and developed with actual Tier 1 Operators from this elite community. Players step into the boots of these warriors and apply their unique skill sets to fight a new enemy in the most unforgiving and hostile conditions of present day Afghanistan."
+
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "ATOM RPG: Post-apocalyptic Indie Game",
+      "released_date": "December 19, 2018",
+      "genres": "RPG, Isometric, 3D, Turn-based",
+      "platforms": "PC",
+      "developer": "Atom Team",
+      "rating": "87%",
+      "user_language": "English, Russian, Simplified Chinese, Spanish - Spain, French, Italian, German, Traditional Chinese, Ukrainian, Polish, Portuguese - Brazil, Japanese",
+      "audio_language": "Russian",
+      "image":"https://cdn.mobygames.com/covers/2802711-atom-rpg-linux-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 64-bit (7 SP1/8/8.1/10)",
+        "processor" : "Intel Core 2 Duo / AMD Phenom II",
+        "ram": "2 GB",
+        "video_card":"NVIDIA GeForce GTX 260 / Radeon HD 4670 1GB / Intel HD 4600",
+        "direX": "10",
+        "hdd_space":"6.2 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/13/ba/13baf323-d3ad-49eb-a3ef-7c021f140938.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/73/c5/73c51930-ce66-43f0-9e2f-bda10346ef76.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/80/fb/80fb8a48-249d-415f-825e-efa80b3204cf.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/a1/f0/a1f07cb1-e1c7-486f-b2ba-5ce14f5a5270.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/f7/89/f7898dd7-ed72-49af-8b70-45d74a2c16c6.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/c0/22/c022f6af-384c-40f8-ae9f-9f398ea2d800.jpg.240p.jpg"
+      ],
+      "description":"ATOM RPG is a post-apocalyptic indie game, inspired by classic CRPGs: Fallout, Wasteland, System Shock, Deus Ex, Baldur's Gate and many others. In 1986 both the Soviet Union and the Western Bloc were destroyed in mutual nuclear bombings. You are one of the survivors of the nuclear Holocaust. Your mission - to explore the wild and wondrous world of the Soviet Wasteland. To earn your place under the sun. And to investigate a shadowy conspiracy, aimed at destroying all that is left of life on Earth."
+
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "UNCHARTED: Legacy of Thieves Collection",
+      "released_date": "Oct 19 2022",
+      "genres": "Action / Adventure",
+      "platforms": "PC",
+      "developer": "Naughty Dog LLC, Iron Galaxy Studios",
+      "rating": "87%",
+      "user_language": "MULTi23",
+      "audio_language": "MULTi14",
+      "image":"https://wp-uploads.qualbert.com/2022/10/hero.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10 / 11",
+        "processor" : "Intel i5-4330 / AMD Ryzen 3 1200",
+        "ram": "16 GB",
+        "video_card":"NVIDIA GTX 960 (4 GB)/ AMD R9 290X (4 GB)",
+        "direX": "12",
+        "hdd_space":"125 GB"
+
+      },
+      "screenshots":[
+        "https://wp-uploads.qualbert.com/2022/10/drakes-fortune.jpg",
+        "https://wp-uploads.qualbert.com/2022/10/boat_storm-1024x576.jpg",
+        "https://wp-uploads.qualbert.com/2022/10/tower-1024x576.jpg",
+        "https://wp-uploads.qualbert.com/2022/10/20221020221444_1-1024x576.jpg",
+        "https://wp-uploads.qualbert.com/2022/10/uncharted_platforming_building-1024x429.jpg",
+        "https://wp-uploads.qualbert.com/2022/10/car_chase-1024x576.jpg"
+      ],
+      "description":"UNCHARTED: Legacy of Thieves Collection includes the two single player adventures from UNCHARTED™ 4: A Thief’s End and UNCHARTED™: The Lost Legacy. Each story is filled with laughs, drama, high octane combat, and a sense of wonder – remastered to be even more immersive. Are You Ready To Seek Your Fortune? Seek your fortune and leave your mark on the map in the UNCHARTED: Legacy of Thieves Collection. Uncover the thrilling cinematic storytelling and the largest blockbuster action set pieces in the UNCHARTED franchise, packed with all the wit, cunning, and over the top moments of the beloved thieves – Nathan Drake and Chloe Frazer."
+
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Contraband Police",
+      "released_date": "March 8, 2023",
+      "genres": "Action, Shooter, Driving, Lifestyle, First-person, 3D",
+      "platforms": "PC",
+      "developer": "Crazy Rocks",
+      "rating": "94%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Polish, Portuguese - Brazil, Russian, Thai, Turkish, Japanese, Traditional Chinese, Spanish - Latin America, Dutch, Korean, Portuguese - Portugal, Ukrainian",
+      "audio_language": "Acaristanian",
+      "image":"https://cdn.mobygames.com/covers/15632051-contraband-police-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 (64-bit versions only)",
+        "processor" : " Intel Core i5-6600 @ 3.3 GHz or AMD Ryzen 5 1600 @ 3.2 GHz or equivalent",
+        "ram": "12 GB",
+        "video_card":"NVIDIA GeForce GTX 1050 or AMD RX 560 (3GB VRAM with Shader Model 5.0 or better)",
+        "direX": "11",
+        "hdd_space":"12.1 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/36/f1/36f1c9fc-be2e-4a00-ae46-50a025c366fd.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/68/5f/685f0cac-ad8c-4f68-93d1-ff0d7c434a00.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/0b/88/0b88ff11-40fc-4133-8bef-4cc1ac23328b.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/0b/e3/0be3e99d-9aa7-4e0a-b751-ad013e3b3f91.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/cf/2e/cf2e46c5-6f78-4d82-aec4-e898fb0659b3.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/ce/14/ce14f00e-8d76-4664-b3e7-3ea7c95a0e5e.jpg.240p.jpg"
+      ],
+      "description":"The year is 1981, and as a young officer trainee, you are assigned to work at a border post in the mountainous region of Karikatka. Entry into the Acarist People's Republic is strictly regulated by the party and your every move is monitored! The situation at the border escalates when your comrade is killed during one of the interventions...  Every visitor must have a set of valid documents. Even the slightest discrepancy means refusal of entry. Over time, the number of documents will increase and errors will be more difficult to detect.Our intelligence regularly provides information about suspicious drivers. Search their vehicles using a UV flashlight and then use the appropriate tools to extract the smuggled goods. No amount of contraband should cross the border!"
+
     }
   ]
 }
