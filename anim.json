@@ -1076,6 +1076,37 @@
       ],
       "description":"The latest installment in the GBVS series is taking the genre to new heights! Rise to glory in the definitive fighting game experience for beginners and veterans alike. It's a Party! Claim Your Crown in Grand Bruise Legends! Need a break from matches? Take a breather and experience a one-of-a-kind island lobby filled with fun attractions. You can even go head-to-head with other players online in a variety of obstacle courses and survival games in an all-new party mode, Grand Bruise Legends! (Avatar, character, and mode availability is limited in the Free Edition.) Stay Focused on the Battle, Not the Controls. Newcomers can fully enjoy the intensity and thrills of one-on-one combat without needing to memorize complicated controls—simple inputs can be used to perform skills with the press of a single button! A Captivating Story Campaign Awaits Embark on a journey through the vast skies of Granblue Fantasy and immerse yourself in an epic adventure while mastering the fundamentals of gameplay. As you take on more quests in this action RPG-inspired experience, you'll continue to grow stronger."
 
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Persona 5 Tactica",
+      "released_date": "November 17, 2023",
+      "genres": "Action",
+      "platforms": "RPG, Strategy, Tactics, Isometric, 3D, Japanese, Turn-based",
+      "developer": " P Studio",
+      "rating": "79%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Traditional Chinese, Japanese, Korean",
+      "audio_language": "English, Japanese",
+      "image":"https://cdn.mobygames.com/covers/17872984-persona-5-tactica-windows-apps-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7/8/8.1/10 (x64)",
+        "processor" : "at least 4-cores i5",
+        "ram": "8 GB",
+        "video_card":"Nvidia GeForce 970",
+        "direX": "11",
+        "hdd_space":"8.4 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/30/bf/30bf3eb4-556c-485b-912c-4265e609d0ed.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/ec/37/ec378282-abad-4849-899d-7e08ea6fbaf3.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/ad/98/ad9846dd-ebfb-4737-96e9-88eb5f64282d.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/b4/82/b4820022-3a0f-4f20-b2cb-bafe2e633ff5.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/16/52/16520b90-2533-46b2-9389-45551c4853d0.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/0a/fe/0afefc77-ee7a-4366-87a5-614a04929817.jpg.240p.jpg"
+      ],
+      "description":"Ignite your heart— An emotional uprising begins! After a strange incident, the Phantom Thieves wander into a bizarre realm where its citizens are living under tyrannical oppression. Surrounded by a military group named Legionnaires, they find themselves in grave danger until a mysterious revolutionary named Erina rescues them and offers an enticing deal in exchange for their help. What truth lies behind Erina and the deal she offers to the Phantom Thieves? Persona 5 Tactica features an all-new story, the return of fan-favorite characters, and brand-new allies and foes. Join the group as they lead an emotional revolution in this thrilling combat adventure! An Emotional Revolution Lead an uprising of the heart in a brand-new storyline that takes place in Persona’s iconic universe.Build Your Dream Squad Assemble a team of beloved heroes to fight oppressive armies in thrilling turn-based combat. Dynamic Combat Overthrow your enemies with powerful Personas, an assortment of weapons, and wipe them out with style!"
+
     }
   ]
 }
