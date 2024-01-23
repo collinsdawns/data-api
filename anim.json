@@ -1709,7 +1709,7 @@
     },
     {
       "update_date" : "5 nov. 2019",
-      "title": "HunterX: code name T",
+      "title": "DUSK",
       "released_date": "10 Dec, 2018",
       "genres": "Action, Indie",
       "platforms": "PC",
@@ -1826,6 +1826,353 @@
         "https://cdn.cloudflare.steamstatic.com/steam/apps/1401590/extras/GIF_Pillar_600x200_v3.gif"
       ],
       "description":"Disney Dreamlight Valley is a hybrid between a life-sim and an adventure game rich with quests, exploration, and engaging activities featuring Disney and Pixar friends, both old and new. Once an idyllic land, Dreamlight Valley was a place where Disney and Pixar characters lived in harmony—until the Forgetting. Night Thorns grew across the land and severed the wonderful memories tied to this magical place. With nowhere else to go, the hopeless inhabitants of Dreamlight Valley retreated behind locked doors in the Dream Castle. Now it’s up to you to discover the stories of this world and bring the magic back to Dreamlight Valley!"
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Ship Graveyard Simulator 2",
+      "released_date": "August 16, 2023",
+      "genres": "Lifestyle, First-person, 3D",
+      "platforms": "PC",
+      "developer": "Games Incubator",
+      "rating": "82%",
+      "user_language": " English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Turkish",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/17512040-ship-graveyard-simulator-2-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 (x64)",
+        "processor" : "Intel Core i5-6600",
+        "ram": "12 GB",
+        "video_card":"Nvidia GeForce GTX 960",
+        "direX": "11",
+        "hdd_space":"9 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/3b/3f/3b3fc187-c579-41af-a09a-8001932da3aa.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/99/85/99858472-d7fa-4071-8f49-467750c5e52c.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/f0/d4/f0d49b74-c183-4568-b544-26f274a5a47f.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/cc/d2/ccd2bbb0-e0fc-4107-9f30-df32eaf14136.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/d3/23/d323939d-2e2e-4ecd-9ba4-43635f932d3b.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/9f/f2/9ff22385-8dad-431a-9477-ace12adee2a1.jpg.240p.jpg"
+      ],
+      "description":"Ship Graveyard Simulator 2 is a continuation of the warmly received first part of the game, in which the player will take care of destroying and recovering materials from shipwrecks. In the game, you can expect new bigger ships, new gameplay mechanics, features and improvements, but also well-known mechanics from the first game that have been significantly improved."
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "The Sims 4: Deluxe Edition",
+      "released_date": "September 4, 2014",
+      "genres": "Artificial life, Managerial, God sim, 3D",
+      "platforms": "PC",
+      "developer": "Maxis",
+      "rating": "87%",
+      "user_language": "English, Spanish, French, German, Czech, Danish, Dutch, Finnish, Italian, Norwegian, Polish, Portuguese-Brazil, Russian, Swedish, Japanese, Korean, Traditional Chinese, Simplified Chinese",
+      "audio_language": "Simlish",
+      "image":"https://cdn.mobygames.com/covers/5925354-the-sims-4-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Vista/7/8/8.1/10 (x64 only!)",
+        "processor" : "1,8 GHz Intel Core 2 Duo / AMD Athlon 64 Dual-Core 4000+ or better",
+        "ram": "2 GB",
+        "video_card":"NVIDIA GeForce 6600 / ATI Radeon X1300 or better",
+        "direX": "11",
+        "hdd_space":"60.9 GB"
+      },
+      "screenshots":[
+        "https://s01.riotpixels.net/data/ce/34/ce34a208-09ae-44eb-b0a9-99e3b624a9bb.jpg.240p.jpg",
+        "https://s01.riotpixels.net/data/fe/c2/fec2c797-9b25-458f-ae0d-e0133af56d79.jpg.240p.jpg",
+        "https://s01.riotpixels.net/data/3d/a7/3da76d61-a0ca-4c99-9795-789df5fdae40.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/6f/e3/6fe30e71-6afe-420a-9901-468b1f043eb7.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/14/18/1418482d-abde-4102-8fdf-4c6e4423d84e.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/44/19/4419cf96-3ca7-4724-a2b7-1a2d7ea1397a.jpg.240p.jpg"
+      ],
+      "description":"The Sims 4 is the highly anticipated life simulation game that lets you play with life like never before. Control smarter Sims with unique appearances, personalities, behaviors, and emotions. Experience new levels of creativity when you sculpt Sims with the powerful Create A Sim and design beautiful homes with tactile, room-based Build Mode. Use The Gallery to browse, share, and download new content without ever leaving your game. Control the mind, body, and heart of your Sims and explore your new gameplay possibilities in vibrant neighborhoods that bring your stories to life."
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Against the Storm",
+      "released_date": "December 8, 2023",
+      "genres": "Managerial, Strategy, Isometric, 3D",
+      "platforms": "PC",
+      "developer": "Eremite Games",
+      "rating": "95%",
+      "user_language": "English, French, German, Spanish - Spain, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Japanese, Korean, Traditional Chinese, Italian, Czech, Hungarian, Turkish, Ukrainian, Thai",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/17964877-against-the-storm-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows® 7 (64-bit)",
+        "processor" : "Intel® Core™ i3-530 (dual-core) / AMD® Phenom™ II X4 965 (quad-core)",
+        "ram": "4 GB",
+        "video_card":"NVIDIA® GeForce® GTS 450 (1 GB) / AMD® Radeon™ HD 7750 (1 GB)",
+        "direX": "10",
+        "hdd_space":"5.7 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/c1/48/c148dcb0-3ae2-4979-b0dd-3475cfc6bb2f.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/87/9a/879a8c6f-86c1-429c-b69d-adb90dddeb11.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/21/56/215616e9-05a3-4eea-b424-dfb2af94a39f.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/64/95/6495bf30-be75-4047-a97a-4bfe42c87a9a.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/c4/c5/c4c5aa6c-29cd-4da2-9b95-e47fc25cce16.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/7e/9e/7e9ed288-fb39-4d53-9f7b-ed9b5bf46779.jpg.240p.jpg"
+      ],
+      "description":"You are the Viceroy – a leader charged by the Scorched Queen to reclaim the wilderness and discover lost riches for the Smoldering City, civilization's last bastion against the Blightstorm that destroyed the old world. Unlike most survival city builders where your focus is on a single city, in Against the Storm you must build a vast, prosperous network of settlements populated by diverse fantasy races, each with their own specializations and needs."
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Warm Snow",
+      "released_date": "January 19, 2022 ~ December 5, 2023",
+      "genres": "Action, RPG, Fantasy, Top-down, 2DD",
+      "platforms": "PC",
+      "developer": "BadMudStudio",
+      "rating": "92%",
+      "user_language": "English, Japanese, Simplified Chinese, Traditional Chinese",
+      "audio_language": "Chinese",
+      "image":"https://cdn.mobygames.com/covers/10555406-warm-snow-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows® 7/8/10 (64-bit)",
+        "processor" : "Intel i3+",
+        "ram": "4 GB",
+        "video_card":"Nvidia GeForce GTX 750",
+        "direX": "10",
+        "hdd_space":"16.7 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/b1/47/b147a41f-b282-4bfb-b172-64c1c10dc9c6.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/68/e0/68e017a3-ab72-45cd-97d9-d335ace72840.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/70/36/70360d3f-d2c3-4d05-87ae-fdb5ccc0af2d.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/f6/21/f621b0ab-f801-4b5f-b8ed-94a580d8d462.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/e1/52/e1523623-e44a-4c03-966e-0b4218098cc1.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/b0/e9/b0e93f93-c367-4256-ad6b-0a91d6836e07.jpg.240p.jpg"
+      ],
+      "description":"While the rich stinks of meat and wine, the bones of the poor litter the roadside.. Great injustice often leads to strange occurrences. Snow in July can only be remedied through blood. A Dark Tale of Sword and Snow: A strange phenomenon appeared during the 27th Year of the Longwu Era. Snow fell from the sky, which was warm rather than cold to the touch, and did not melt. People who breathed in the 'Warm Snow' lost their minds and became monsters. This phenomenon was later known as 'Warm Snow'. Embark on a journey as Warrior 'Bi-an' to search for the truth behind the 'Warm Snow' and put an end to the this never-ending darkness."
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Shadow Gambit: The Cursed Crew",
+      "released_date": "17 Aug, 2023",
+      "genres": "Action, RPG, Fantasy, Top-down, 2DD",
+      "platforms": "PC",
+      "developer": "BadMudStudio",
+      "rating": "92%",
+      "user_language": "English, Japanese, Simplified Chinese, Traditional Chinese",
+      "audio_language": "Chinese",
+      "image":"https://cdn.mobygames.com/covers/17519714-shadow-gambit-the-cursed-crew-xbox-series-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows® 10/11",
+        "processor" : "3.0GHz Four Core CPU (Intel i5-7400, AMD Ryzen 3 1200)",
+        "ram": "8 GB",
+        "video_card":"Nvidia GTX 750 Ti, Nvidia GTX 1050 Ti, AMD Radeon HD 7870, AMD Radeon RX 570, 2GB VRam",
+        "direX": "11",
+        "hdd_space":"28 GB"
+      },
+      "screenshots":[
+        "https://wallpapercave.com/wp/wp12685586.jpg",
+        "https://news.xbox.com/en-us/wp-content/uploads/sites/2/2023/08/shadow_gambit_release_screenshot_3_HD_Xbox.jpg",
+        "https://images4.alphacoders.com/132/1326572.png",
+        "https://pressakey.com/gamepix/7022/Shadow-Gambit-The-Cursed-Crew-294415.jpg",
+        "https://i.ytimg.com/vi/5HgiTR2mk0Q/maxresdefault.jpg",
+        "https://www.newgamenetwork.com/images/uploads/gallery/ShadowGambitTCC/sgtcc_11.jpg"
+      ],
+      "description":".Welcome to the Lost Caribbean! In this stealth strategy game, join a ghost ship with a living soul and assemble a cursed pirate crew. Embrace magical powers to defy the menacing army of the Inquisition, who stands between you and the mysterious treasure of the legendary Captain Mordechai."
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "World War Z: Aftermath",
+      "released_date": "April 16, 2019 ~ December 5, 2023",
+      "genres": " Action, Shooter, First-person, Third-person, Post-apocalyptic, Zombies, 3D",
+      "platforms": "PC",
+      "developer": "Saber Interactive Inc",
+      "rating": "84%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Korean, Portuguese - Brazil, Polish, Russian, Simplified Chinese, Traditional Chinese",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/10464436-world-war-z-aftermath-windows-apps-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows® 7 x64",
+        "processor" : "AMD A10-5700 / Intel Core i3-3220",
+        "ram": "8 GB",
+        "video_card":"AMD R7-240 / GForce 650Ti / Intel 630",
+        "direX": "11",
+        "hdd_space":"61 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/10/69/106987ed-8f44-4efb-ba64-2dec000c8f6d.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/8f/4f/8f4f0a8c-a0b5-4c96-b7c1-4a7b7ebfdd6e.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/63/ff/63ff9f42-9a1d-4ece-8385-0897c309a3b7.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/98/d8/98d8b723-a3e5-4b35-bdb9-04dbcca0aea8.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/5d/6c/5d6c6d9d-9976-4085-abcd-9a3c4c1038fc.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/7f/71/7f7173b6-d912-4ac1-a635-6e170b9082b0.jpg.240p.jpg"
+      ],
+      "description":"World War Z: Aftermath is the ultimate co-op zombie shooter inspired by Paramount Pictures’ blockbuster film, and the next evolution of the original hit World War Z that has now captivated over 15 million players. Turn the tide of the zombie apocalypse on consoles and PC with full cross-play. Join up to three friends or play on your own with AI teammates against hordes of ravenous zombies in intense story episodes across new zombie-ravaged locations around the world. Take back Vatican City in an epic confrontation in Rome, and join forces with survivors in Russia’s snowbound Kamchatka peninsula."
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Warhammer 40,000: Rogue Trader",
+      "released_date": "December 7, 2023",
+      "genres": " RPG, Isometric, 3D, Party-based, Turn-based",
+      "platforms": "PC",
+      "developer": "Owlcat Games",
+      "rating": "87%",
+      "user_language": "English, French, German, Spanish - Spain, Russian, Simplified Chinese, Japanese",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/17960418-warhammer-40000-rogue-trader-xbox-series-front-cover.png",
+      "minimum_requirements":{
+        "os": "Windows® 7 x64",
+        "processor" : "Intel(R) Core(TM) i5-4590T CPU @ 2.00GHz",
+        "ram": "8 GB",
+        "video_card":"AMD Radeon RX Vega 6 / Intel HD Graphics 630",
+        "direX": "11",
+        "hdd_space":"35.7 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/82/a0/82a062b2-b85e-498a-b068-37a1eac15540.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/3f/77/3f773751-f492-48b1-b157-792d280ca3bf.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/3f/77/3f773751-f492-48b1-b157-792d280ca3bf.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/ac/4f/ac4f3827-2da7-442a-90ec-a15e9a2f8514.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/5c/46/5c467ab5-9b28-4e8d-a187-d9a0c4c366a0.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/c2/24/c22404b2-0b1b-44a1-9677-83517e904e2f.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/f4/ce/f4ce7396-c620-47aa-9d65-c045a6ddd799.jpg.240p.jpg"
+      ],
+      "description":"Explore the Koronus Expanse Begin your adventure aboard your personal, giant voidship, traveling between the multitude of systems within the Koronus Expanse, a barely charted and incredibly perilous region of space. Despite being considered a backwater of the Imperium, this region encompasses an enormous stretch of the void, filled with dangerous creatures and prodigious opportunities for profit and exploration. Your decisions matter, Lord-Captain During quests show your subjects mercy or disdain, stay faithful to the God-Emperor, or consort with enemies of Mankind - your every decision and every act, even in character creation, is changing the in-game open world and those who inhabit it."
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Trail Out: Complete Edition",
+      "released_date": "September 7, 2022",
+      "genres": "Arcade, Racing, Physics-based, Vehicular combat, Cars, First-person, Third-person, 3D",
+      "platforms": "PC",
+      "developer": " GOOD BOYS",
+      "rating": "82%",
+      "user_language": "English, French, German, Spanish - Spain, Hungarian, Russian, Ukrainian, Brazilian Portuguese, Swedish, Simplified Chinese, Traditional Chinese",
+      "audio_language": "English, Russian",
+      "image":"https://cdn.mobygames.com/covers/18046718-trail-out-complete-edition-windows-front-cover.png",
+      "minimum_requirements":{
+        "os": "Windows® 7 x64",
+        "processor" : "Intel Core i5 3570",
+        "ram": "8 GB",
+        "video_card":"GTX 1050",
+        "direX": "11",
+        "hdd_space":"22.7 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/48/10/48108ae0-0cb7-4eba-9b40-8c60ba19b635.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/e9/8a/e98a9d08-8666-4665-9cfb-f63176ee98e5.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/17/0c/170c08d2-78f5-4f2f-b93d-c37de86394e4.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/b4/3e/b43edb39-d533-418d-b446-669ff68f2926.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/71/77/7177d73f-4280-4e1e-800f-6ceed40cd87c.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/02/b9/02b9bf1e-c1b7-42d5-8656-8dddbdfba556.jpg.240p.jpg"
+      ],
+      "description":"Welcome to the festival of explosive races, TRAIL OUT! You're in for a mad race in different parts of the world, your main goal is to live to the finish line and take the main cup of the festival! Exploding cars, flying and screaming drivers, the hype from the fans, and unseen destruction around the entire track - it's all waiting for you here! Relive the story of racer Mihalych, a simple story where you'll try to take the main cup of the festival by defeating all the bosses in unique battles."
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Blood West",
+      "released_date": "December 5, 2023",
+      "genres": "Action, Shooter, First-person, 3D, Western",
+      "platforms": "PC",
+      "developer": "Hyperstrange",
+      "rating": "91%",
+      "user_language": "English, German, Polish, Russian, Hungarian",
+      "audio_language": "English, Russian",
+      "image":"https://cdn.mobygames.com/covers/17952998-blood-west-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows® 7 x64",
+        "processor" : "Intel Core i5 7500",
+        "ram": "8 GB",
+        "video_card":"NVIDIA GeForce GTX 780M",
+        "direX": "10",
+        "hdd_space":"3.9 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/93/ad/93add7fa-9d00-4e2a-a2ba-a4d7cbbce149.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/7e/83/7e835b63-ec85-48d4-8c90-6517f1ba6ad1.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/d4/1d/d41dbb22-58c3-4e4f-930b-d70c8acef15d.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/14/2a/142ad665-4789-4e3c-ac34-327de383cfd7.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/5a/d5/5ad56987-6149-4d10-8a3e-75d1aa5cb9a6.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/f4/ce/f4cec9f1-b722-476c-aafc-028757f02d59.jpg.240p.jpg"
+      ],
+      "description":"Weird West legends meet eldritch horror in BLOOD WEST, an immersive stealth FPS. Become the Undead Gunslinger, doomed to roam the barren lands until he finds the means to purge their curse and free his soul. No, this isn’t your typical Wild West desperado redemption arc. This is a damnation arc. The Canyons, the Swamp, and the Mountains. Each swarming with abominable monsters and unholy demons, these are open-ended worlds for you to explore freely at your own pace. It will take the player over 20 hours on average to complete all three scenarios, and over 35 if they want to see everything the barren lands have to offer. Blood West is a stealth FPS inspired by the genre classics such as the Thief series (whose fans will be happy to hear the voice of Stephen Russell, the actor voicing the master-thief Garrett, returning here as the protagonist), S.T.A.L.K.E.R. games, or - from the contemporary catalog - Hunt: Showdown. The gameplay rewards the careful approach: scouting the area, stalking your enemies, and striking from the shadows. Can you figure out a way to clear a fort full of ghouls and monsters without raising an alarm?"
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "SIFU: Digital Deluxe Edition",
+      "released_date": "February 8, 2022",
+      "genres": "Action, Beat 'em up (Brawler), Third-person, 3D",
+      "platforms": "PC",
+      "developer": "Sloclap",
+      "rating": "93%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Dutch, Japanese, Korean, Portuguese, Polish, Russian, Simplified Chinese, Traditional Chinese, Turkish",
+      "audio_language": "English, Chinese",
+      "image":"https://telegra.ph/file/5f28ea42c2ee6479e8e64.jpg",
+      "minimum_requirements":{
+        "os": "Windows® 7 x64",
+        "processor" : "AMD FX-4350 or Intel Core i5-3470 or equivalent",
+        "ram": "8 GB",
+        "video_card":"Radeon R7 250 or GeForce GT 640 or equivalent",
+        "direX": "19.0c/10/11/12",
+        "hdd_space":"36.7 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/b7/b2/b7b21569-6cef-4d7a-b63f-72f495df42df.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/0b/c6/0bc6e0d1-3ae9-4f82-adbd-717c9e9813f5.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/bb/a0/bba0b5da-c77b-4dd6-bb47-37f40044ccfc.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/f8/ce/f8ce22ba-5103-4b4e-aeb4-191e2be2f91a.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/aa/f5/aaf5d0cb-21df-4c7c-91c0-b3f171549f69.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/fc/de/fcde6515-84eb-4c32-bce5-a630a3b4c5ce.jpg.240p.jpg"
+      ],
+      "description":"Is one life enough to have Kung Fu? Sifu is the story of a young Kung Fu student on a path of revenge, hunting for the murderers of his family. One against all, he has no allies, and countless enemies. He has to rely on his unique mastery of Kung Fu as well as a mysterious pendant to prevail, and preserve his family’s legacy.On the path of vengeance: The hunt for your enemies will take you through the hidden corners of the city, from the gang-ridden suburbs to the cold hallways of the corporate towers. You have got one day, and countless enemies on your way. For every mistake, time will be the price to pay. Adaptation is the way: Careful positioning and clever use of the environment to your advantage are key to your survival. Use everything at your disposal: throwable objects, makeshift weapons, windows and ledges... The odds are stacked against you, and you will be offered no mercy.Training never ends:Kung Fu is mastery through practice, a path for both the body and the mind. Learn from your errors, unlock unique skills, and find the strength within yourself to master the devastating techniques of Pak-Mei Kung-Fu."
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "King Arthur: Knight's Tale",
+      "released_date": "Apr 26, 2022",
+      "genres": "RPG / Strategy",
+      "platforms": "PC",
+      "developer": "NeocoreGames",
+      "rating": "93%",
+      "user_language": "MULTi9",
+      "audio_language": "English, Chinese",
+      "image":"https://cdn.mobygames.com/covers/9710738-king-arthur-knights-tale-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10 / 11",
+        "processor" : "Intel i5-4690 / AMD FX 4350",
+        "ram": "8 GB",
+        "video_card":"Nvidia GTX 780 / AMD Radeon R9 280X, DirectX 12",
+        "direX": "10",
+        "hdd_space":"41.9 GB"
+      },
+      "screenshots":[
+        "https://www.rpgfan.com/wp-content/uploads/2022/03/King-Arthur-Knights-Tale-Screenshot-013-1280x720.jpg",
+        "https://www.rpgfan.com/wp-content/uploads/2022/03/King-Arthur-Knights-Tale-Screenshot-014-1280x720.jpg",
+        "https://www.rpgfan.com/wp-content/uploads/2022/03/King-Arthur-Knights-Tale-Screenshot-011-1280x720.jpg",
+        "https://www.rpgfan.com/wp-content/uploads/2022/03/King-Arthur-Knights-Tale-Screenshot-012-1280x720.jpg"
+      ],
+      "description":"You are Sir Mordred, the nemesis of King Arthur, the former black knight of the grim tales. You killed King Arthur, but with his dying breath, he struck you down. You both died – and yet, you both live. The Lady of the Lake, the ruler of the mystical island of Avalon brought you back to end a true nightmare. She wants you to go on a knightly quest. She wants you to finish what you have begun. Kill King Arthur – or whatever he has become after she took his dying vessel to Avalon..A Role-playing Tactical Game : Experience a unique hybrid between turn-based tactical games and traditional, character-centric RPGs! This dark fantasy version of the Arthurian mythology invites you to manage a team of heroes on the dangerous battlefield, while also engaging in moral choices, hero management, and the rebuilding of Camelot."
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Apocalypse Party",
+      "released_date": "December 1, 2023",
+      "genres": "Arcade, Shoot 'em up, Isometric, 3D",
+      "platforms": "PC",
+      "developer": "Breaker Games",
+      "rating": "72%",
+      "user_language": "English, Simplified Chinese, Traditional Chinese",
+      "audio_language": "none",
+      "image":"https://cdn.mobygames.com/covers/17942916-apocalypse-party-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 or newer, 64-bit",
+        "processor" : "Intel Core i3-6100 / AMD FX-8350",
+        "ram": "4 GB",
+        "video_card":"GTX 580 / AMD HD 7870",
+        "direX": "11",
+        "hdd_space":"4.8 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/03/52/03528ac1-4885-420d-aba2-760022e93963.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/1d/fa/1dfa98cb-9c87-4f8a-a83a-67d620b5938e.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/77/7e/777ef247-54fa-4496-b73d-43f646c54a68.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/77/82/778275d3-090a-4a76-a644-4702f15c10b7.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/d9/ae/d9aeb54b-e484-455f-8984-07a48d5c8999.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/4f/8e/4f8edb26-36a3-4208-907e-daa0fe7eb0f7.jpg.240p.jpg"
+      ],
+      "description":"The moment of 'Apocalypse' approaches, this time... ...you fight for yourself! 「Apocalypse Party」 is distinct from the former 「Project Zero」In this installment, you will delve deeper into this long-standing battle, with the story gradually becoming incredible! Time travel? Apocalypse? Saving the world? You will face many more unknown challenges... ... But it still retains our beloved RogueLike + mowing-down-enemies combo, and you will face this catastrophe online with your friends (of course, you can also face it alone)!"
     }
   ]
 }
