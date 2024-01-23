@@ -1225,6 +1225,607 @@
         "https://gamingbolt.com/wp-content/uploads/2020/09/DYNASTY-WARRIORS-9-Empires-05.jpg"
       ],
       "description":"A new release in the Empires series, featuring a mix of thrilling action and country capturing simulation. Experience the human drama of the Three Kingdoms in a way only Empires can provide. Fight exciting Castle Sieges and manipulate the country's Politics. Welcome to the Empires experience!"
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Dying Light 2: Stay Human",
+      "released_date": "4 Feb. 2022",
+      "genres": "Action / Survival horror / 3D / 1st Person",
+      "platforms": "RPG, Strategy, Tactics, Isometric, 3D, Japanese, Turn-based",
+      "developer": "Techland",
+      "rating": "none",
+      "user_language": "MULTi17",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/11309259-dying-light-2-stay-human-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 (64 bit)",
+        "processor" : "Intel Core i3-9100 / AMD Ryzen 3 2300X",
+        "ram": "8 GB",
+        "video_card":"NVIDIA GeForce GTX 1050 Ti / AMD Radeon RX 560 (4GB VRAM)",
+        "direX": "11",
+        "hdd_space":"110 GB"
+
+      },
+      "screenshots":[
+        "https://helios-i.mashable.com/imagery/articles/04Z6I7OuDg2kKEIVp4q37l8/hero-image.fill.size_1248x702.v1643777026.jpg",
+        "https://helios-i.mashable.com/imagery/articles/04Z6I7OuDg2kKEIVp4q37l8/images-3.fill.size_1400x788.v1643777026.jpg",
+        "https://helios-i.mashable.com/imagery/articles/04Z6I7OuDg2kKEIVp4q37l8/images-5.fill.size_1400x788.v1643777027.jpg",
+        "https://helios-i.mashable.com/imagery/articles/04Z6I7OuDg2kKEIVp4q37l8/images-1.fill.size_1400x788.v1643777026.jpg",
+        "https://helios-i.mashable.com/imagery/articles/04Z6I7OuDg2kKEIVp4q37l8/images-4.fill.size_1400x788.v1643777027.jpg",
+        "https://helios-i.mashable.com/imagery/articles/04Z6I7OuDg2kKEIVp4q37l8/images-2.fill.size_1400x788.v1643777026.jpg"
+      ],
+      "description":"Over twenty years ago in Harran, we fought the virus—and lost. Now, we’re losing again. The City, one of the last large human settlements, is torn by conflict. Civilization has fallen back into the Dark Ages. And yet, we still have hope. You are a wanderer with the power to change the fate of The City. But your exceptional abilities come at a price. Haunted by memories you cannot decipher, you set out to learn the truth… and find yourself in a combat zone. Hone your skills, as to defeat your enemies and make allies, you’ll need both fists and wits. Unravel the dark secrets behind the wielders of power, choose sides and decide your destiny. But wherever your actions take you, there's one thing you can never forget—stay human."
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Detective: 'Stella Porta' Case",
+      "released_date": "December 21, 2023",
+      "genres": "Adventure, First-person, 3D",
+      "platforms": "PC",
+      "developer": "K148 Game Studio",
+      "rating": "none",
+      "user_language": "English, Spanish - Spain, French, German, Simplified Chinese, Turkish, Ukrainian, Catalan",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/18013108-detective-stella-porta-case-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 64-bit or Mac OS X 10.9.2 or later",
+        "processor" : "Quad-core Intel or AMD processor, 2.5 GHz or faster",
+        "ram": "8 GB",
+        "video_card":"NVIDIA GeForce 470 GTX / AMD Radeon 6870 HD",
+        "direX": "11",
+        "hdd_space":"4.7 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/02/e1/02e1182a-2e45-4847-bc2f-ba6da1d79258.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/55/62/55620c5c-93b8-4960-9b5a-63b4c073b04d.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/4a/bd/4abd3274-d381-4ebf-b478-c65f7d53d961.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/d5/b8/d5b8bbd6-1620-45de-bce6-1ad7c5d86ef4.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/ca/95/ca95b161-cfd9-46c4-ac50-659fa7097728.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/90/ad/90add4e7-6d47-4575-8124-499d231de704.jpg.240p.jpg"
+      ],
+      "description":"DETECTIVE: Stella Porta Case, puts you in the shoes of a detective who investigates three strange disappearances. In all cases there is a contract signed by the disappeared, that contract is from an organization called 'Stella Porta'. Each case presents a completely different scenario, but they all seem to be connected in some way, as a detective your job is to solve the cases and find the connection between them. As a police detective, you must reach the crime zone and collect all the evidence you see, these evidence will help you later to solve the case. Anything is important, details, objects, conversations, you will need to be observant in order to move forward. DETECTIVE: Stella Porta Case, is dark and macabre, showing unfiltered contemporary social reality."
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Hot Wheels: Unleashed 2 - Turbocharged",
+      "released_date": "October 19, 2023",
+      "genres": "Arcade, Racing, Third-person, 3D",
+      "platforms": "PC",
+      "developer": "Milestone",
+      "rating": "76%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Japanese, Polish, Portuguese - Brazil, Simplified Chinese, Spanish - Latin America, Thai, Traditional Chinese, Indonesian",
+      "audio_language": "English, French, Italian, German, Spanish - Spain, Japanese, Polish, Portuguese - Brazil, Simplified Chinese, Spanish - Latin America, Thai, Traditional Chinese, Indonesian",
+      "image":"https://cdn.mobygames.com/covers/17741127-hot-wheels-unleashed-2-turbocharged-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 64-bit or later",
+        "processor" : "Intel Core i5-4590 / AMD FX-4350 or equivalent",
+        "ram": "8 GB",
+        "video_card":"eForce GTX 1050 / Radeon RX 460",
+        "direX": "11",
+        "hdd_space":"18.5 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/10/89/1089c764-0873-492e-b12f-3d2805212c2c.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/23/ed/23ed6aee-c944-4b0c-8442-03c025d2f298.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/e1/5b/e15b84c6-86d5-4410-a0a2-9c54d57a7491.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/4d/a7/4da75489-3779-4b5a-9bc3-81faf570ad97.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/db/fe/dbfe5b77-407d-4940-85df-415ff7ab5eaf.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/76/19/76193e84-c28f-405b-beb0-6dcea1ca5c39.jpg.240p.jpg"
+      ],
+      "description":"WE DID IT AGAIN! If you thought the first chapter was awesome, well, buckle up because we are going to blow you away with incredible new features! MORE WHEELS FOR YOUR FUNFirst things first: make room on your virtual shelf because you can access more than 130 vehicles, and even more varieties! Yes, not only Hot Wheels™ Originals, but also Hot Wheels™ Monster Trucks and vehicles from the entertainment world. Now you can also ride motorbikes and ATVs, each with their own unique racing style to take on every track in the most strategic way! A brand new system will define the vehicles’ category, which can be upgraded with the dedicated skill tree that will directly affect their performance. Watch your car become unstoppable!"
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Offroad Truck Simulator: Heavy Duty Challenge",
+      "released_date": "September 14, 2023",
+      "genres": "Racing, Simulation, First-person, Third-person, Trucks",
+      "platforms": "PC",
+      "developer": "Nano Games",
+      "rating": "76%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Traditional Chinese, Czech, Japanese, Korean, Polish, Portuguese - Portugal, Portuguese - Brazil, Russian, Turkish, Hungarian, Simplified Chinese, Ukrainian",
+      "audio_language": "none",
+      "image":"https://telegra.ph/file/35cc7485e3d902c242b13.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 64-bit",
+        "processor" : "from 2.9 GHz AMD Ryzen 5 3600 or Intel i5-10400F or newer",
+        "ram": "8 GB",
+        "video_card":"Nvidia GTX 1070 Ti or equivalent",
+        "direX": "11",
+        "hdd_space":"40 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/4c/e8/4ce86bec-3a94-48d0-86b0-95d83de30308.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/77/f0/77f093d2-4f09-49ee-9902-5dfb838756f4.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/5b/f7/5bf75bde-f4ef-4b85-b40e-1efe6afec62d.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/82/2b/822bd40d-2431-42c8-85c6-c30d42a0787d.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/b9/89/b9893b57-cb13-496e-b5bb-f568ffcfa792.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/5e/57/5e57d0b8-0807-47d6-8b57-cba68a394b4f.jpg.240p.jpg"
+      ],
+      "description":"Experience unparalleled offroad driving in Offroad Truck Simulator: Heavy Duty Challenge®. Travel through the breathtaking landscapes of Utah's rugged terrain, delve into the dense European forests, and dominate diverse terrains in France, Poland, Austria, and Iceland. This game delivers an exhilarating off-road experience with an extensive fleet of massive and formidable trucks. DIVERSE CARGO MISSIONS Master a variety of transport missions across the rugged US state of Utah or the picturesque European countryside. In the Cargo Mode, handle diverse types of cargo with finesse. Earn credits to mend your vehicles or unlock an even broader array of mighty trucks, enhancing your transport capabilities."
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "LEGO 2K Drive",
+      "released_date": "May 19, 2023",
+      "genres": "Arcade, Racing, Third-person, 3D",
+      "platforms": "PC",
+      "developer": "Visual Concepts",
+      "rating": "59%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Danish, Dutch, Japanese, Korean, Polish, Portuguese - Brazil, Simplified Chinese, Spanish - Latin America, Thai, Traditional Chinese",
+      "audio_language": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Spanish - Latin America",
+      "image":"https://cdn.mobygames.com/covers/17111945-lego-2k-drive-xbox-one-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10 64-bit, Windows 11 64-bit",
+        "processor" : "Intel®️ Core™️ Intel i5 4690 / AMD Ryzen 5 1500X or better",
+        "ram": "8 GB",
+        "video_card":"Nvidia 960 2GB / AMD R9 380 or better",
+        "direX": "11",
+        "hdd_space":"10.3 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/01/cd/01cd30c6-bf4f-4f1f-8ba0-2476683e71ee.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/bc/fa/bcfac1cd-46e8-4dd2-8fe9-6abdac4c71e0.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/3f/63/3f639199-c0de-4467-b404-11255536418c.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/61/2e/612ed93b-a29f-49f8-b59b-f56fa0fb8a57.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/a1/1d/a11d1548-184c-45ca-b2a8-5ecdb16a1514.jpg.240p.jpg"
+      ],
+      "description":"Welcome to Bricklandia, home of a massive open-world LEGO® driving adventure. Race anywhere, play with anyone, build your dream rides, and defeat a cast of wild racing rivals for the coveted Sky Trophy! In LEGO 2K Drive, your awesome transforming vehicle gives you the freedom to speed seamlessly across riveting racetracks, off-road terrain, and open waters. Explore the vast world of Bricklandia, show off your driving skills, and build vehicles brick-by-brick!  THE ULTIMATE LEGO DRIVING EXPERIENCE Get behind the wheel and gear up for tons of open-world exploration and thrilling races! Take on the exciting Story mode, jump into a single race or Cup Series tourneys, and let loose in off-the-wall minigames. Master the art of drifting, boosting, jumping, and using power-ups to defeat opponents!"
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Quantum Break",
+      "released_date": "September 29, 2016",
+      "genres": "Action, Shooter, Cover-based, Third-person, 3D",
+      "platforms": "PC",
+      "developer": "Remedy Entertainment",
+      "rating": "86%",
+      "user_language": "English, German, Spanish, Italian, French, Russian, Portuguese-Brazil, Japanese, Korean, Traditional Chinese",
+      "audio_language": "English, German, Spanish, Italian, French, Russian, Portuguese-Brazil",
+      "image":"https://cdn.mobygames.com/covers/1810583-quantum-break-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 or later (x64 only)",
+        "processor" : "Core i5-4460 3.2GHz",
+        "ram": "8 GB",
+        "video_card":"Nvidia 960 2GB / AMD R9 380 or better",
+        "direX": "11",
+        "hdd_space":"70 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/47/da/47da9184-9a69-448a-a07c-cfe91655216a.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/03/47/034790e1-cb15-4021-b829-4a901c7c60ce.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/c4/ca/c4caf877-8e6a-4dc0-be74-ae5939e746be.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/68/de/68dea929-89f8-4542-990e-7d81d1963327.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/07/86/0786b57a-9f5a-4d3e-b700-3f8a235fce7d.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/28/45/2845a5a0-3337-4662-b196-c01a9fcb8142.jpg.240p.jpg"
+      ],
+      "description":"Catastrophe becomes your playground after a failed time-machine experiment fractures time itself. As hero Jack Joyce, you’ll fight your way through epic disasters that stutter back and forth in time. But surviving this unstable world—and halting the end of time itself—is only possible by mastering your new time powers. Push cinematic action to the next level in this time-fractured world. Freeze time to gain the upper hand. Warp past enemies. Turn time-frozen objects into weapons with a single touch. With time itself in your arsenal, combat is never predictable."
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Graveyard Shift",
+      "released_date": "2 Dec, 2023",
+      "genres": "Adventure, Indie",
+      "platforms": "PC",
+      "developer": "DarkPhobia Games",
+      "rating": "86%",
+      "user_language": "English, German, Spanish, Italian, French, Russian, Portuguese-Brazil, Japanese, Korean, Traditional Chinese",
+      "audio_language": "English, German, Spanish, Italian, French, Russian, Portuguese-Brazil",
+      "image":"https://telegra.ph/file/cfa4af51a6a9cf884a40d.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10 / 11 (X64)",
+        "processor" : "Intel® Core™ i5-3470 or AMD™ Ryzen 5 3600",
+        "ram": "6 GB",
+        "video_card":"NVIDIA® GeForce® GTX 970 or AMD Radeon R9 280",
+        "direX": "12",
+        "hdd_space":"8.8 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/29/a9/29a95970-223a-48cd-a215-0daa9273c167.jpg.720p.jpg/screenshot.graveyard-shift.1280x720.2023-12-07.10.jpg",
+        "http://s01.riotpixels.net/data/b2/40/b240e970-2cce-47c7-bff2-24bfdaaf372b.jpg.720p.jpg/screenshot.graveyard-shift.1280x720.2023-12-07.9.jpg",
+        "http://s01.riotpixels.net/data/d7/fe/d7fea7af-c14b-4615-a7da-5524c33eb34f.jpg.720p.jpg/screenshot.graveyard-shift.1280x720.2023-12-07.8.jpg",
+        "http://s01.riotpixels.net/data/c0/a8/c0a87e5d-ab1a-4011-9dc7-65f0eb5b4406.jpg.720p.jpg/screenshot.graveyard-shift.1280x720.2023-12-07.7.jpg",
+        "http://s01.riotpixels.net/data/15/e8/15e8c99f-425a-4ea8-88fc-aad927d34207.jpg.720p.jpg/screenshot.graveyard-shift.1280x720.2023-12-07.6.jpg",
+        "http://s01.riotpixels.net/data/bc/33/bc33fbaa-13b7-46d8-9887-8111c1850d22.jpg.720p.jpg/screenshot.graveyard-shift.1280x720.2023-12-07.5.jpg",
+        "http://s01.riotpixels.net/data/5e/3c/5e3c5481-3e29-4f0c-983d-8e666b344d5a.jpg.720p.jpg/screenshot.graveyard-shift.1280x720.2023-12-07.4.jpg"
+      ],
+      "description":"Guarding the graveyard shift is often considered one of the most terrifying jobs globally, but night guarding at Whispering Winds Cemetery surpasses any other cemetery in horror! Being Night Security in this place will turn into a nightmare for you that you may never forget."
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Grand Theft Auto V",
+      "released_date": "April 14, 2015",
+      "genres": "Action, Shooter, First-person, Third-person, 3D",
+      "platforms": "PC",
+      "developer": "Rockstar North",
+      "rating": "86%",
+      "user_language": "MULTi13",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/7136619-grand-theft-auto-v-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "64-bit: Vista, Win 7, Win 8, Win 10;",
+        "processor" : "Intel Core 2 Q6600 @ 2.40 GHz (quad-core) / AMD Phenom 9850 (quad-core) @ 2.5 GHz;",
+        "ram": "4 GB",
+        "video_card":"NVIDIA 9800 GT with 1 GB of video memory / AMD HD 4870 with 1 GB of video memory (DX 10, 10.1, 11);",
+        "direX": "12",
+        "hdd_space":"112 GB"
+
+      },
+      "screenshots":[
+        "https://cdn.mobygames.com/screenshots/5973851-grand-theft-auto-v-playstation-4-police-ambush.jpg",
+        "https://cdn.mobygames.com/screenshots/5347459-grand-theft-auto-v-playstation-4-on-the-way-to-the-extraction-po.jpg",
+        "https://cdn.mobygames.com/screenshots/5937320-grand-theft-auto-v-playstation-4-mission-failed.jpg",
+        "https://cdn.mobygames.com/screenshots/5965188-grand-theft-auto-v-playstation-4-title-screen.jpg",
+        "https://cdn.mobygames.com/screenshots/5960991-grand-theft-auto-v-playstation-4-in-game-menu.jpg",
+        "https://cdn.mobygames.com/screenshots/5937323-grand-theft-auto-v-playstation-4-meeting-with-a-psychiatrist.jpg",
+        "https://cdn.mobygames.com/screenshots/5973848-grand-theft-auto-v-playstation-4-paradise.jpg",
+        "https://cdn.mobygames.com/screenshots/5937338-grand-theft-auto-v-playstation-4-on-the-bench.jpg",
+        "https://cdn.mobygames.com/screenshots/5937335-grand-theft-auto-v-playstation-4-driving-course.jpg",
+        "https://cdn.mobygames.com/screenshots/5936514-grand-theft-auto-v-playstation-4-high-jump.jpg",
+        "https://cdn.mobygames.com/screenshots/5937344-grand-theft-auto-v-playstation-4-cabinet-view.jpg"
+      ],
+      "description":"Los Santos is the city of the sun, starlets and out-of-print stars. Once the envy of the entire Western world, it is now the home of trashy reality shows, choking in the grip of economic problems. At the center of all the confusion is a trinity of completely different criminals, desperately trying to grab their luck by the tail in an ongoing struggle for a place in the sun. Former street gang member Franklin is trying to tie up with the past. The retired bank robber Michael discovers that in an honest life, everything is not as rosy as it seemed. Crazy Trevor, turned on violence, interrupts from one businessman to another in the hope of hitting a big jackpot. Having exhausted their options, these three put their own lives on the line and commit a series of daring robberies, in which - either pan or disappeared. In Grand Theft Auto V, fans will find not only the largest and most detailed world ever created by Rockstar Games, but also the opportunity to influence the lives and actions of three main characters at once. This interweaving of stories of several characters will make the game as fun and exciting as possible."
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Immortals of Aveum",
+      "released_date": "August 22, 2023",
+      "genres": "Action, Shooter, First-person, 3D",
+      "platforms": "PC",
+      "developer": "Ascendant Studios",
+      "rating": "74%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Russian (fan-made)",
+      "audio_language": "English, French, Italian, German, Spanish - Spain, Japanese",
+      "image":"https://cdn.mobygames.com/covers/17536945-immortals-of-aveum-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Win 10 (64 bit) or later (Win 11 recommended for Intel 12th and 13th gen CPUs)",
+        "processor" : "AMD Ryzen 5 2600X Intel Core i7-8700K",
+        "ram": "16 GB",
+        "video_card":"AMD Radeon RX 580 (8GB) NVIDIA GeForce GTX 1070 (8GB)",
+        "direX": "12",
+        "hdd_space":"56.5 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/5f/92/5f925f40-99b2-4ac6-b485-77105d03c166.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/53/b2/53b2556f-c686-49a0-ba1c-bdffe0295cd9.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/70/9c/709cb5ae-bff1-4392-805e-ccf5992d01c3.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/80/cc/80cce799-7d1d-43e2-bb67-2ad7ae96bd08.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/5c/ba/5cba894a-fdc0-4823-833f-0a80bd487466.jpg.240p.jpg"
+      ],
+      "description":"Immortals of Aveum is a single-player first person magic shooter that tells the story of Jak as he joins an elite order of battlemages to save a world on the edge of abyss. With legions of soldiers on both sides of the Everwar, he must uncover the mysteries of Aveum's troubled past, if there's any hope for saving its future. Master three forces of magic and unleash spells with deadly skill in a game that defies FPS conventions.Be The Battlemage. Join the order of Immortals, the champion protectors of Lucium, and become Jak, an elite Triarch Magnus. Master Your Magic. Fast, fluid, first person spell-based combat that’s easy to learn and satisfying to master, where players are rewarded for clever chained attacks and well-timed counters. Unleash Your Arsenal of Spells. Unlock and upgrade more than 25 spells and 80 talents. Discover, upgrade and craft hundreds of pieces of magical gear to synergize your playstyle across all three forces of magic. Save a World on the Edge of Abyss. Jak and Lucium’s elite Immortals must race to uncover the mysteries of Aveum’s past, if there’s any hope of saving its future."
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "DOOM",
+      "released_date": "May 13, 2016",
+      "genres": "Action, shooter, 3D, 1st person",
+      "platforms": "PC",
+      "developer": "id Software",
+      "rating": "Not rated",
+      "user_language": "Russian / English / MULTi10",
+      "audio_language": "Russian / English / MULTi10",
+      "image":"https://telegra.ph/file/71ee4307f19ddf8c4f125.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 / 8.1 / 10 64-bit",
+        "processor" : "Core i5-2400 / FX-8320 3 GHz",
+        "ram": "8 GB",
+        "video_card":"2 GB, GeForce GTX 670 / Radeon HD 7870, DirectX 11",
+        "direX": "11",
+        "hdd_space":"70 GB"
+
+      },
+      "screenshots":[
+        "http://i77.fastpic.ru/big/2016/0511/77/6d922853322f4493c53af69d91652c77.jpg",
+        "http://i77.fastpic.ru/big/2016/0511/8a/4060d9c563c9ea7c76733bb72e51ff8a.jpg",
+        "http://i77.fastpic.ru/big/2016/0511/1e/f544cfdc21c031552d904249bf3dae1e.jpg"
+      ],
+      "description":"The huge research complex of the United Aerospace Corporation on Mars was filled with bloodthirsty demons, preparing to conquer our world. And only one person stands in their way ... DOOM is back. The legendary game that determined the very essence of the shooter genre is with us again. A brutal, aggressive, uncompromising and very bloody action movie is developed by the cult studio id Software. Merciless demons, incredibly destructive weapons, rapid movement on the level - these are the main components of the intense and exciting battles of DOOM."
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Dungeons of Sundaria",
+      "released_date": " December 12, 2023",
+      "genres": "RPG, Action RPG, Third-person, 3D",
+      "platforms": "PC",
+      "developer": "Industry Games",
+      "rating": "77%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Brazil, Portuguese - Portugal, Russian, Simplified Chinese, Spanish - Latin America, Turkish",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/10897847-dungeons-of-sundaria-playstation-4-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "64-Bit Windows 7 Service Pack 1, or Windows 8",
+        "processor" : "2 GHz Dual-Core 64-bit CPU",
+        "ram": "4 GB",
+        "video_card":"Nvidia GTX 760 with 2 GB Video RAM",
+        "direX": "11",
+        "hdd_space":"7.9 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/39/ea/39ea61b4-6e7d-492d-8df9-9929e4880007.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/07/64/0764dbc0-a47b-4296-875a-9cb2b93b6f18.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/9b/b8/9bb8be3e-fea9-40f8-8668-40e339b99e3e.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/ca/d4/cad416cc-b011-4c61-a19e-b7e56f23ff86.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/ca/d4/cad416cc-b011-4c61-a19e-b7e56f23ff86.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/9b/1d/9b1dab58-81a1-42cf-90c7-2f7aba1a5dc6.jpg.240p.jpg"
+      ],
+      "description":"The Dungeons: 8 Huge Dungeons filled with hundreds of fiendish monsters and dozens of diabolical bosses. Three Levels of Difficulty: Normal, Hard, and Nightmare. Online single player or co-op up to 4-players. Local Split-screen multiplayer co-op up to 4-players (only requires a single game copy). Make your Hero 7 Races: Human, Dwarf, Elf, Halfling, Orc, Goblin and Drog'al (lizard). 5 Classes: Champion, Ranger, Cleric, Wizard, and Rogue. Customize the appearance of your Hero. Become a Legend Collect a huge variety of Weapons, Armor, and Accessories to customize your Hero and grow in power. Craft powerful equipment and become a force of reckoning. Multiple tiers of armor and weapons. Embrace the Heroism system, allowing you to continually increase the power of your Hero."
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Ready or Not",
+      "released_date": "December 13, 2023",
+      "genres": "Action, Tactical shooter, First-person, 3D",
+      "platforms": "PC",
+      "developer": "Void Interactive",
+      "rating": "91%",
+      "user_language": "English, German, French, Korean, Simplified Chinese",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/10193914-ready-or-not-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "64-bit Windows 7, Windows 8.1, Windows 10",
+        "processor" : "Intel Core i5-4430 / AMD FX-6300",
+        "ram": "8 GB",
+        "video_card":"NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB",
+        "direX": "11",
+        "hdd_space":"58.4 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/d7/16/d71652e6-37b7-4192-a9ee-52531e7f6c1c.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/e0/a5/e0a5c0ba-7373-443d-8216-ada8bf8b0920.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/10/50/1050d4d6-b522-4325-99f5-b7f536ae1484.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/09/8d/098d36f1-21e5-44ed-94ce-545057369acf.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/c1/ca/c1cab5e8-feef-42b7-b85f-5b9d7dad4b16.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/49/b6/49b689ea-d0de-49e5-9ec5-2a5384f014c2.jpg.240p.jpg"
+      ],
+      "description":"Los Sueños – The LSPD reports a massive upsurge in violent crime across the greater Los Sueños area. Special Weapons and Tactics (SWAT) teams have been dispatched to respond to various scenes involving high-risk hostage situations, active bomb threats, barricaded suspects, and other criminal activities. Citizens are being advised to practice caution when traveling the city or to stay at home. It has been noted that while Los Sueños is still seen as a city where riches can be found, for many more the finer things in life are becoming less and less obtainable. “The city is sprawling with cramped high-rise apartments and decaying affordable housing, which has been exploited by the criminal underground like a malevolent parasite,” states Chief Galo Álvarez. “In a city where people are just trying to survive, lawful action from the LSPD and the LSPD SWAT team remains an integral force preventing the stretched thin social fabric in this city from snapping under this chaotic strain.” In response to the burgeoning violent crime wave inundating Los Sueños, Chief Álvarez of the LSPD has enlisted the stalwart support of David ‘Judge’ Beaumont as the Commander of the LSPD SWAT team. Shortly following this announcement, the LSPD has also confirmed active recruitment for additional talent to join this specialized tactical police unit with the mission of bringing peace back to the city."
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "House Flipper 2",
+      "released_date": "December 14, 2023",
+      "genres": "Lifestyle, First-person, 3D",
+      "platforms": "PC",
+      "developer": "Frozen District",
+      "rating": "88%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Dutch, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Turkish, Ukrainian",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/17986283-house-flipper-2-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 64bit",
+        "processor" : "AMD Ryzen 5 1st gen / Intel Core i5 7th gen",
+        "ram": "8 GB",
+        "video_card":"AMD Radeon RX 580 4GB / NVIDIA GeForce GTX 1060 6GB",
+        "direX": "11",
+        "hdd_space":"5.8 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/c2/ba/c2baef38-96e3-4be8-aa0d-f0fcb766ff19.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/36/b8/36b82cc8-4a0a-43c4-8d00-2aa62b18d061.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/2b/54/2b545569-c4ff-4ee9-9da5-5cc4956b0d68.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/c2/c7/c2c7413d-b5f3-49c1-bde9-a48f816fb289.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/62/01/62011a1c-1755-4692-a1da-f0e4309c7d0c.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/26/96/2696221c-8ce8-47bb-9781-4eb0ad79ac5c.jpg.240p.jpg"
+      ],
+      "description":"It doesn't matter if you're a makeover veteran or if you're only starting out - you'll feel at home in no time! House Flipper 2 introduces new mechanics and revamps the ones from the original game. The good old hammer, the trusty paint roller, and the sturdy mop, all await your return! The new visuals make our fixer-uppers look crisp as never before! Why renovate a house when you can just build one? Unleash your creativity in the Sandbox Mode! Use it to recreate real-life buildings or design projects that exist in your imagination. Remember: building from scratch is no easy task! But let's face it, it's definitely worth putting in extra effort to design the house of your dreams. Between the mountain tops and the endless sea, there lies the town of Pinnacove. A place where time slows down, and the friendly residents are ready to entrust you with their homes. Can you discover some of the stories within these walls? Your old pal Tom, who seems to know everybody in the neighborhood, will gladly share some local knowledge with you. In House Flipper 2, you are the foreman!You get to decide what 'relaxing gameplay' means! Do you enjoy building? Choose the Sandbox Mode which allows you to construct houses from scratch. Or maybe you prefer cleaning and decorating? In the Story Mode, you will delve into long and engaging renovation projects, as well as deal with some quick jobs. Sit back and relax, here comes the new age of House Flipper!"
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Crisis Core: Final Fantasy VII - Reunion",
+      "released_date": "December 13, 2022",
+      "genres": "Action, RPG, Japanese, Third-person, 3D",
+      "platforms": "PC",
+      "developer": "Square Enix, TOSE CO., LTD.",
+      "rating": "90%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Simplified Chinese, Traditional Chinese",
+      "audio_language": "English, Japanese",
+      "image":"https://cdn.mobygames.com/covers/11182126-crisis-core-final-fantasy-vii-reunion-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 64bit",
+        "processor" : "AMD A8-7600 / Intel Core i3-3210",
+        "ram": "8 GB",
+        "video_card":"AMD Radeon RX 460 / Intel Arc A380 / NVIDIA GeForce GTX 750 Ti",
+        "direX": "12",
+        "hdd_space":"18.4 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/12/06/12062378-50f1-4fe6-8894-d823ad6e5985.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/8e/ff/8eff8d22-22a4-47a2-b5fa-13d83df6391c.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/ca/ac/caac9a1a-36eb-4652-a19a-7312845d9cf5.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/ce/d8/ced8b9c1-3537-4b95-84b2-819467f78e26.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/d0/ab/d0abbb77-720a-4357-b15f-1d8112fd460a.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/9f/ad/9fad8e05-fed8-41c9-adc8-d175a5f2715a.jpg.240p.jpg"
+      ],
+      "description":"CRISIS CORE: FINAL FANTASY VII – REUNION is the HD remaster version of the smash hit prequel to FINAL FANTASY VII. In addition to all graphics being remastered in HD, fully voiced dialogue and new soundtrack arrangements make for a dynamic new retelling of a beloved classic. CRISIS CORE: FINAL FANTASY VII – REUNION follows the story of Zack Fair, a young warrior admired by the boy destined to save the world, trusted by men renowned as heroes of legend, and loved by the girl who holds the fate of the planet in her hands. The tale of Zack's dreams and honor—the legacy that connects him to Cloud—is revealed in full in this grand saga that has broken the limits of an HD remaster."
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Wo Long: Fallen Dynasty",
+      "released_date": "March 3, 2023",
+      "genres": "Action, Slasher, Third-person, 3D",
+      "platforms": "PC",
+      "developer": "Team Ninja",
+      "rating": "47%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Japanese, Korean",
+      "audio_language": "English, Japanese, Chinese",
+      "image":"https://cdn.mobygames.com/covers/15573458-wo-long-fallen-dynasty-windows-apps-front-cover.png",
+      "minimum_requirements":{
+        "os": "Windows® 10, Windows® 11, 64bit",
+        "processor" : "Intel® Core™ i5-8400 / AMD Ryzen™ 5 3400G",
+        "ram": "8 GB",
+        "video_card":"GeForce GTX 1650 4GB / Radeon RX 570 4GB",
+        "direX": "12",
+        "hdd_space":"59.7 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/ec/32/ec3219b6-dd46-4f82-aeaf-3d9e42030787.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/ca/a1/caa1c3df-cfab-42b4-b1aa-8784f2737859.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/38/e8/38e8a803-8c5c-4206-afc8-efc9548758a6.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/40/1e/401ed7f1-ff34-4267-b4bc-cec26b13896f.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/2a/02/2a02c352-5b34-4366-b6fb-bb314d63e700.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/6d/84/6d84162d-a133-4d3c-a8de-15f6881ae8a6.jpg.240p.jpg"
+      ],
+      "description":"From the depths of darkness, a dragon soars. A new dark fantasy Three Kingdoms action RPG from Team NINJA, the developers of Nioh. 184 AD, Later Han Dynasty China. The land is overcome by chaos and destruction. The imperial dynasty that prospered for many years is now about to collapse. Wo Long: Fallen Dynasty is a dramatic, action-packed story of a nameless militia soldier fighting for survival in a dark fantasy version of the Later Han Dynasty where demons plague the Three Kingdoms. Players fight off deadly creatures and enemy soldiers using swordplay based on the Chinese martial arts, attempting to overcome the odds by awakening the true power from within. Wo Long refers to a crouching dragon, and also refers to a hero or person of greatness who is not yet known. This is the story of officers, who will later become heroes, during their ‘unknown’ period, and also the story of a protagonist’s rise from being a ‘nobody’."
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "HunterX: code name T",
+      "released_date": "December 12, 2023",
+      "genres": "Arcade, Jump and run, Side, 3D",
+      "platforms": "PC",
+      "developer": "TOrange Popcorn",
+      "rating": "not enough reviews",
+      "user_language": "English, Korean, French, Italian, German, Spanish - Spain, Russian, Japanese, Simplified Chinese, Traditional Chinese, Portuguese - Brazil",
+      "audio_language": "none",
+      "image":"https://cdn.mobygames.com/covers/17981175-hunterx-code-name-t-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 x64",
+        "processor" : "Intel Core 2 Duo E4400",
+        "ram": "2 GB",
+        "video_card":"2GB of video RAM",
+        "direX": "11",
+        "hdd_space":"3.8 GB"
+
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/0c/01/0c014268-50f8-4fb1-a141-37261d8c175e.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/e2/c9/e2c97a8a-c0db-4107-a331-5ed71a34d644.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/6d/eb/6deb288f-64d3-44da-8f1f-931f1d3a6834.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/5e/42/5e428f2c-c3f1-4e2e-b95b-4b5acd8441fe.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/2e/32/2e324237-5b6d-42d3-9e2e-daa8acac60dc.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/16/c1/16c17146-c32b-4fd5-a4e9-887ea116259f.jpg.240p.jpg"
+      ],
+      "description":"The Night of the Purple Moon has returned. Facing the moonlight, the devil hunter Taiyo recalls a lost memory. To hunt devils... and to find himself... he embarks on a fateful adventure through a crack in the world. HunterX: code name T is an action adventure with fast and stylish combat.Perfect your own fighting style using various weapon actions and magic, and explore an ever-greater world. Forge your own path and explore an ever-greater world that straddles the past and future! Exciting stories of your comrades, bewildering riddles, and terrifying devils await you. Collect a variety of weapons and shape your own action style! Experience more sophisticated and stylish combat with weapon-specific actions, dodges, guards, parries, and counterattacks. Defeat unique devils and bosses! Collect over 190 different items to identify enemy weaknesses and attack strategically. "
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "HunterX: code name T",
+      "released_date": "10 Dec, 2018",
+      "genres": "Action, Indie",
+      "platforms": "PC",
+      "developer": "David Szymanski",
+      "rating": "none",
+      "user_language": "English, Korean, French, Italian, German, Spanish - Spain, Russian, Japanese, Simplified Chinese, Traditional Chinese, Portuguese - Brazil",
+      "audio_language": "none",
+      "image":"https://cdn.mobygames.com/covers/3124868-dusk-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 or later",
+        "processor" : "2.4GHZ Dual Core Processor Or Higher",
+        "ram": "2 GB",
+        "video_card":"GeForce 9800GT Or Equivalent",
+        "direX": "9",
+        "hdd_space":"15 GB"
+      },
+      "screenshots":[
+        "https://cdn.mobygames.com/screenshots/16217474-dusk-windows-main-menu-early-access-version-141.png",
+        "https://cdn.mobygames.com/screenshots/16152090-dusk-windows-shooting-a-cultist-and-a-cryptic-message-on-the-wal.png",
+        "https://cdn.mobygames.com/screenshots/16153356-dusk-windows-exploring-an-abandoned-house-early-access-version-1.png",
+        "https://cdn.mobygames.com/screenshots/16217481-dusk-windows-fighting-an-enemy-in-the-fields-early-access-versio.png",
+        "https://cdn.mobygames.com/screenshots/16153344-dusk-windows-looking-down-at-a-church-with-a-graveyard-and-a-sin.png",
+        "https://cdn.mobygames.com/screenshots/16471777-dusk-windows-the-key-is-guarded-early-access-version-141.png",
+        "https://cdn.mobygames.com/screenshots/16153002-dusk-windows-inside-a-warehouse-early-access-version-141.png",
+        "https://cdn.mobygames.com/screenshots/16153005-dusk-windows-many-weapons-can-be-dual-wielded-early-access-versi.png",
+        "https://cdn.mobygames.com/screenshots/16471495-dusk-windows-the-aftermath-in-an-attic-where-a-ritual-took-place.png"
+      ],
+      "description":"Battle through an onslaught of mystical backwater cultists, possessed militants & even darker forces as you attempt to discover just what lurks beneath the Earth in this retro FPS inspired by the '90s legends. "
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Darkest Dungeon II: Oblivion Edition",
+      "released_date": "May 8, 2023",
+      "genres": "RPG, Dungeon crawl, Permanent death, Side, 3D, Party-based, Turn-based",
+      "platforms": "PC",
+      "developer": "Red Hook Studios",
+      "rating": "76%",
+      "user_language": "English, French, Italian, German, Czech, Polish, Portuguese - Brazil, Russian, Spanish - Latin America, Japanese, Korean, Simplified Chinese, Ukrainian",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/10153107-darkest-dungeon-ii-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 7 x64",
+        "processor" : "AMD Athlon X4 | Intel Core i5 4460",
+        "ram": "8 GB",
+        "video_card":"Nvidia GTX 950 | AMD R7 370",
+        "direX": "11",
+        "hdd_space":"4.5 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/61/e4/61e4d8fd-e595-42f4-8063-783b96d817df.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/46/d5/46d508bc-244e-4b02-8486-44ec5e14336a.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/a2/fd/a2fd8eef-6cb8-446d-96f7-946c47eb3d93.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/1c/ff/1cff48b5-bc7b-4022-91c8-3f219b1acc99.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/56/70/5670fb7e-85ca-410a-8281-e7a3a1d80224.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/6f/68/6f680ac8-bb10-4738-badd-cce7a4b565f1.jpg.240p.jpg"
+      ],
+      "description":"Darkest Dungeon II is a roguelike road trip of the damned. Form a party, equip your stagecoach, and set off across the decaying landscape on a last gasp quest to avert the apocalypse. The greatest dangers you face, however, may come from within... Gather your courage and ride out into the chaos of a world undone. Four heroes and a stagecoach are all that stand between darkness and salvation. Tried and True Turn-based Combat, Improved The ground-breaking genre-defining combat from Darkest Dungeon returns, but everything from stats to rules has been refined and improved. The all new Token System helps make your decisions impactful while adding even more depth of play."
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Northgard: The Viking Age Edition",
+      "released_date": "March 7, 2018",
+      "genres": "Strategy, Fantasy, Real-time, Isometric, 3D",
+      "platforms": "PC",
+      "developer": "Shiro Games",
+      "rating": "87%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Korean, Portuguese - Brazil, Polish, Russian, Simplified Chinese, Turkish",
+      "audio_language": "English",
+      "image":"https://cdn.mobygames.com/covers/2161496-northgard-windows-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows Vista/7/8/8.1/10 (x64)",
+        "processor" : "Intel 2.0ghz Core 2 Duo or equivalent",
+        "ram": "1 GB",
+        "video_card":"Nvidia 450 GTS / Radeon HD 5750 / or better",
+        "direX": "10",
+        "hdd_space":"4.4 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/80/b2/80b2d1ae-4db8-4626-8e59-c789d1c61bc0.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/3c/e5/3ce53fb8-9da2-40d7-ac76-cad481a5e1d9.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/f4/9f/f49f2c87-ee2b-497f-b164-8d6ee66caa32.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/6e/61/6e6120c0-3f87-46da-bcd8-19434f75a80b.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/f9/76/f976c56f-6cb6-4958-99f3-785e6cf63f7c.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/06/fa/06fad23b-58ce-49eb-96db-d3a92df52f59.jpg.240p.jpg"
+      ],
+      "description":"After years of tireless explorations, brave Vikings have discovered a new land filled with mystery, danger and riches: NORTHGARD. The boldest Northmen have set sail to explore and conquer these new shores, bring fame to their Clan and write history through conquest, trading, or devotion to the Gods. That is, if they can survive the dire Wolves and Undead Warriors roaming the land, befriend or defeat the giants, and survive the harshest winters ever witnessed in the North. Story Mode - Rig's Saga: The Viking High King is murdered and his Regal Horn is stolen by a man named Hagen. This event kickstarts a saga that will take Rig, his son and heir accompanied by his right-hand man Brand through the new continent of Northgard.The continent where he will make new friends and foes and discover a much greater threat than Hagen, and the reasons behind his father’s assassination."
+    },
+    {
+      "update_date" : "5 nov. 2019",
+      "title": "Disney Dreamlight Valley",
+      "released_date": " December 5, 2023",
+      "genres": "Lifestyle, Third-person, 3D",
+      "platforms": "PC",
+      "developer": "Gameloft",
+      "rating": "91%",
+      "user_language": "English, French, Italian, German, Spanish - Spain, Japanese, Simplified Chinese",
+      "audio_language": "English, French, Italian, German, Spanish - Spain",
+      "image":"https://cdn.mobygames.com/covers/10739198-disney-dreamlight-valley-nintendo-switch-front-cover.jpg",
+      "minimum_requirements":{
+        "os": "Windows 10 (x64)",
+        "processor" : "Intel Core i3-540 or AMD Phenom II X4 940",
+        "ram": "6 GB",
+        "video_card":"NVIDIA GeForce 9600 GT, 512 MB or AMD Radeon HD 6570, 1 GB",
+        "direX": "10",
+        "hdd_space":"10.8 GB"
+      },
+      "screenshots":[
+        "http://s01.riotpixels.net/data/10/69/106934e1-2a3e-49c9-8d2a-b48dae5a4dc8.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/f2/37/f2378f25-b6d9-4092-a882-b6e677934c48.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/e6/1b/e61b573f-a1c2-4bf6-ac66-9abd55faa338.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/90/92/90920022-5e82-44b7-8676-21fe01395dde.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/dd/73/dd73391b-203c-474d-91cb-07452bc4749a.jpg.240p.jpg",
+        "http://s01.riotpixels.net/data/87/a2/87a2e231-baea-423a-bbaa-c1dcd2c97783.jpg.240p.jpg",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/1401590/extras/GIF_Pillar_600x200_v3.gif"
+      ],
+      "description":"Disney Dreamlight Valley is a hybrid between a life-sim and an adventure game rich with quests, exploration, and engaging activities featuring Disney and Pixar friends, both old and new. Once an idyllic land, Dreamlight Valley was a place where Disney and Pixar characters lived in harmony—until the Forgetting. Night Thorns grew across the land and severed the wonderful memories tied to this magical place. With nowhere else to go, the hopeless inhabitants of Dreamlight Valley retreated behind locked doors in the Dream Castle. Now it’s up to you to discover the stories of this world and bring the magic back to Dreamlight Valley!"
     }
   ]
 }
